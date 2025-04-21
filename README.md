@@ -52,6 +52,6 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## 个人微信公众号
 
-![鲸落生](figs/wechat.jpg)
+![鲸落生](wechat.jpg)
 
 
