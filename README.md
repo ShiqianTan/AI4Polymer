@@ -49,3 +49,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## AI4Polymer review
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
+
+## 个人微信公众号
+
+![鲸落生](figs/wechat.jpg)
+
+
