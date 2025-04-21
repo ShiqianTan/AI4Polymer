@@ -11,6 +11,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Large language model](#large-language-model)
   - [Inverse design](#inverse-design)
   - [Polymer dataset](#polymer-dataset)
+  - [Polymer representation](#polymer-representation)
 
 ## Large language model
 
@@ -24,3 +25,20 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Polymer dataset
 
 - [Polyinfo](https://ieeexplore.ieee.org/abstract/document/6076416) - A Japanese website collecting diverse experimental data for polymers from academic papers. PoLyInfo collects information on polymer names, chemical structures, processing methods of samples, measurement conditions, properties, used monomers and polymerization methods.
+
+## Polymer representation
+
+### Fingerprints
+- ECFP ([Extended-Connectivity Fingerprints](https://pubs.acs.org/doi/10.1021/ci100050t)) - Extended-connectivity fingerprints (ECFPs) is a class of topological fingerprints for molecular characterization. Historically, topological fingerprints were developed for substructure and similarity searching. Their features represent the presence of particular substructures, allowing easier interpretation of analysis results.
+
+### PSMILES
+### BigSMILES
+### GNN
+### LLM
+- [TransPolymer](https://doi.org/10.1038/s41524-023-01016-5) - A large language model based on RoBERTa architecture for polymer representation and property prediction.
+- [PolyBERT](https://doi.org/10.1038/s41467-023-39868-6) - A large language model based on DeBERTa architecture for polymer representation and multi-task property prediction.
+### Multi-modality
+### Multi-domain
+### Review or benchmarking
+- [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://doi.org/10.1021/acs.jcim.9b00358)
+- 
