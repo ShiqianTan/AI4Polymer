@@ -7,7 +7,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Table of contents
 
-- [Awesome AI for polymer ![Awesome](https://github.com/sindresorhus/awesome)](#ai4polymer-)
+- [Awesome AI for polymer](#ai4polymer-)
   - [Large language model](#large-language-model)
   - [Inverse design](#inverse-design)
 
