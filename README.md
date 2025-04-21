@@ -48,4 +48,4 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://doi.org/10.1021/acs.jcim.9b00358)
 
 ## AI4Polymer review
-- []
+- [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
