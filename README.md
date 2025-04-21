@@ -10,6 +10,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Awesome AI for polymer](#ai4polymer-)
   - [Large language model](#large-language-model)
   - [Inverse design](#inverse-design)
+  - [Polymer dataset](#polymer-dataset)
 
 ## Large language model
 
@@ -19,3 +20,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 
 ## Inverse design
+
+## Polymer dataset
+
+- [Polyinfo](https://ieeexplore.ieee.org/abstract/document/6076416) - A Japanese website collecting diverse experimental data for polymers from academic papers. PoLyInfo collects information on polymer names, chemical structures, processing methods of samples, measurement conditions, properties, used monomers and polymerization methods.
