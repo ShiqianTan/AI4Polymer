@@ -12,6 +12,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Inverse design](#inverse-design)
   - [Polymer dataset](#polymer-dataset)
   - [Polymer representation](#polymer-representation)
+  - [Generative model](#generative-model)
 
 ## Large language model
 
@@ -51,8 +52,12 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ### Review or benchmarking
 - [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://doi.org/10.1021/acs.jcim.9b00358)
 
+## Generative model
+- [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025]
+
 ## AI4Polymer review
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
+- [Polymer Informatics: Opportunities and Challenges](https://doi.org/10.1021/acsmacrolett.7b00228) [2017]
 
 ## 个人微信公众号
 
