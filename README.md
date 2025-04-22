@@ -47,6 +47,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Design of Tough 3D Printable Elastomers with Human-in-the-Loop Reinforcement Learning](https://chemrxiv.org/engage/chemrxiv/article-details/67ddbe1f81d2151a0257f3e6) [2025] - RL
 - [Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials for Membrane Separation](https://doi.org/10.1021/acs.est.4c08298) [2025]
 - [Rationally designed high-temperature polymer dielectrics for capacitive energy storage: An experimental and computational alliance](https://doi.org/10.1016/j.progpolymsci.2025.101931) [2025]
+- [AI-driven design of fluorine-free polymers for sustainable and high-performance anion exchange membranes](https://www.oaepublish.com/articles/jmi.2024.69) [2025]
 - [AI-guided few-shot inverse design of HDP-mimicking polymers against drug-resistant bacteria](https://doi.org/10.1038/s41467-024-50533-4) [2024]
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 - [Data-Driven Design of Polymer-Based Biomaterials: High-throughput Simulation, Experimentation, and Machine Learning](https://doi.org/10.1021/acsabm.2c00962) [2024]
