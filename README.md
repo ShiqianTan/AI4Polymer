@@ -30,6 +30,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 - [Data-Driven Design of Polymer-Based Biomaterials: High-throughput Simulation, Experimentation, and Machine Learning](https://doi.org/10.1021/acsabm.2c00962) [2024]
 - [Data-Driven Methods for Accelerating Polymer Design](https://doi.org/10.1021/acspolymersau.1c00035) [2022]
+- [Data-driven algorithms for inverse design of polymers](http://dx.doi.org/10.1039/D1SM00725D) [2021]: Review
 - [Targeted sequence design within the coarse-grained polymer genome](https://www.science.org/doi/abs/10.1126/sciadv.abc6216) [2020]
 
 ## Polymer dataset
