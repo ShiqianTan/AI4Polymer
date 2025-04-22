@@ -38,6 +38,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Computational Design of Peptides for Biomaterials Applications](https://doi.org/10.1021/acsabm.2c01023) [2024]
 - [Design of functional and sustainable polymers assisted by artificial intelligence](https://doi.org/10.1038/s41578-024-00708-8) [2024]
 - [Machine learning-guided discovery of polymer membranes for CO2 separation with genetic algorithm](https://doi.org/10.1016/j.memsci.2024.123169) [2024]
+- [Transcend the boundaries: Machine learning for designing polymeric membrane materials for gas separation](https://doi.org/10.1063/5.0205433) [2024]
 - [Coarse-Grained Artificial Intelligence for Design of Brush Networks](https://doi.org/10.1021/acsmacrolett.3c00479) [2023]
 - [Polymer sequence design via molecular simulation-based active learning](http://dx.doi.org/10.1039/D2SM01193J) [2023]
 - [Applied machine learning as a driver for polymeric biomaterials design](https://doi.org/10.1038/s41467-023-40459-8) [2023]
@@ -103,6 +104,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
 - [Machine Learning-Driven Discovery of Thermoset Shape Memory Polymers With High Glass Transition Temperature Using Variational Autoencoders](https://onlinelibrary.wiley.com/doi/abs/10.1002/pol.20241095) [2025]: VAE
 - [Property-guided generation of complex polymer topologies using variational autoencoders](https://doi.org/10.1038/s41524-024-01328-0) [2024] - Variational auto-encoder.
+- [Graph-to-String Variational Autoencoder for Synthetic Polymer Design](https://openreview.net/forum?id=6E2qjEf7Rs) [2023]: NeurlPS 2023, VAE
 
 ## Multi-task learning
 - [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
