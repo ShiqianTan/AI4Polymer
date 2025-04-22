@@ -25,6 +25,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Publication statistics
 
+![AI4Polymer publication statistics from Web of Science](figs/webofscience.png)
+
+The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*") AND PY=(2010-2025)). The access time of web of science is April 22, 2025.
+
 ## Large language model
 
 *Paper of using Large language model (LLM) for polymer.*
