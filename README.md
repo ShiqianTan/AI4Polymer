@@ -55,6 +55,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - ECFP ([Extended-Connectivity Fingerprints](https://pubs.acs.org/doi/10.1021/ci100050t)) - Extended-connectivity fingerprints (ECFPs) is a class of topological fingerprints for molecular characterization. Historically, topological fingerprints were developed for substructure and similarity searching. Their features represent the presence of particular substructures, allowing easier interpretation of analysis results.
 - [Featurization strategies for polymer sequence or composition design by machine learning](http://dx.doi.org/10.1039/D1ME00160D) [2022]
 - Mordred ([Mordred: a molecular descriptor calculator](https://doi.org/10.1186/s13321-018-0258-y)) [2018] - Mordred is an open-source tool capable of calculating constitutional descriptors (e.g., molecular weight and atom counts), topological descriptors (information about molecular connectivity and branching), geometrical descriptors (three-dimensional shape and size parameters), electronic descriptors (properties related to electron distribution within the molecule), and physicochemical descriptors (such as solubility parameters and polar surface area).
+- [Sizing up feature descriptors for macromolecular machine learning with polymeric biomaterials](https://doi.org/10.1038/s41524-023-01040-5) [2023]
 
 ### PSMILES
 - [Enhancing Copolymer Property Prediction through the Weighted-Chained-SMILES Machine Learning Framework](https://doi.org/10.1021/acsapm.3c02715) - The authors use weighted-chained-SMILES to represent copolymers.
@@ -79,6 +80,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ### Polymer similarity
 - [Calculating Pairwise Similarity of Polymer Ensembles via Earth Mover’s Distance](https://doi.org/10.1021/acspolymersau.3c00029) [2024]
+- [Quantifying Pairwise Similarity for Complex Polymers](https://doi.org/10.1021/acs.macromol.3c00761) [2023]
 
 ### Multi-domain
 - Uni-Poly [Unified Multimodal Multidomain Polymer Representation for Property Prediction](https://www.researchsquare.com/article/rs-5795287/v1) - SMILES, 2D graphs, 3D geometries, Morgan fingerprints and polymer domain-specific textual descriptions.
