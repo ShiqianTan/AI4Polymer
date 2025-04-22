@@ -73,6 +73,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Multimodal Transformer for Property Prediction in Polymers](https://doi.org/10.1021/acsami.4c01207) - PSMILES, 2D Graph
 - [Mmpolymer: A multimodal multitask pretraining framework for polymer property prediction](https://arxiv.org/abs/2406.04727) - SMILES, 3D geometry
 - [Multimodal machine learning with large language embedding model for polymer property prediction](https://arxiv.org/abs/2503.22962) [2025] - PSMILES, 3D geometry (Uni-Mol), LLM (Llama) encodering latent vectors
+
+### Polymer similarity
+- [Calculating Pairwise Similarity of Polymer Ensembles via Earth Mover’s Distance](https://doi.org/10.1021/acspolymersau.3c00029) [2024]
+
 ### Multi-domain
 - Uni-Poly [Unified Multimodal Multidomain Polymer Representation for Property Prediction](https://www.researchsquare.com/article/rs-5795287/v1) - SMILES, 2D graphs, 3D geometries, Morgan fingerprints and polymer domain-specific textual descriptions.
 ### Review or benchmarking
