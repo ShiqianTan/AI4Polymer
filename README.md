@@ -9,7 +9,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 - [Awesome AI for polymer](#ai4polymer-)
   - [Large language model](#large-language-model)
-  - [Inverse design](#inverse-design)
+  - [Polymer design](#polymer-design)
   - [Polymer dataset](#polymer-dataset)
   - [Polymer representation](#polymer-representation)
   - [Generative model](#generative-model)
@@ -26,7 +26,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Unified Multimodal Multidomain Polymer Representation for Property Prediction](https://www.researchsquare.com/article/rs-5795287/v1) - A paper of using LLM with Unified Multimodal Multidomain for polymer property prediction.
 
 
-## Inverse design
+## Polymer design
+- [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 
 ## Polymer dataset
 
