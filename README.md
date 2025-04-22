@@ -64,6 +64,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [SMiPoly: Generation of a Synthesizable Polymer Virtual Library Using Rule-Based Polymerization Reactions](https://doi.org/10.1021/acs.jcim.3c00329) [2023]
 - [Polyuniverse: generation of a large-scale polymer library using rule-based polymerization reactions for polymer informatics](http://dx.doi.org/10.1039/D4DD00196F) [2024]
 - [NIMS polymer database PoLyInfo (I): an overarching view of half a million data points](https://doi.org/10.1080/27660400.2024.2354649) [2024]
+- [NIMS polymer database PoLyInfo (II): machine-readable standardization of polymer knowledge expression](https://doi.org/10.1080/27660400.2024.2354651) [2024]
 
 ## Polymer representation
 
