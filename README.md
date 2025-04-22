@@ -31,10 +31,13 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Benchmarking study of deep generative models for inverse polymer design](http://dx.doi.org/10.1039/D4DD00395K) [2025]
 - [Inverse design of copolymers including stoichiometry and chain architecture](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc05900j) [2025]
 - [Designing Polymers with Molecular Weight Distribution-Based Machine Learning](https://doi.org/10.1021/jacs.4c16325) [2025]
+- [Machine learning applied to the design and optimization of polymeric materials: A review](https://www.sciencedirect.com/science/article/pii/S2949822824003472) [2025]
 - [AI-guided few-shot inverse design of HDP-mimicking polymers against drug-resistant bacteria](https://doi.org/10.1038/s41467-024-50533-4) [2024]
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 - [Data-Driven Design of Polymer-Based Biomaterials: High-throughput Simulation, Experimentation, and Machine Learning](https://doi.org/10.1021/acsabm.2c00962) [2024]
+- [Computational Design of Peptides for Biomaterials Applications](https://doi.org/10.1021/acsabm.2c01023) [2024]
 - [Coarse-Grained Artificial Intelligence for Design of Brush Networks](https://doi.org/10.1021/acsmacrolett.3c00479) [2023]
+- [Polymer sequence design via molecular simulation-based active learning](http://dx.doi.org/10.1039/D2SM01193J) [2023]
 - [Data-Driven Methods for Accelerating Polymer Design](https://doi.org/10.1021/acspolymersau.1c00035) [2022]
 - [Data-driven algorithms for inverse design of polymers](http://dx.doi.org/10.1039/D1SM00725D) [2021]: Review
 - [Targeted sequence design within the coarse-grained polymer genome](https://www.science.org/doi/abs/10.1126/sciadv.abc6216) [2020]
