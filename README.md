@@ -13,6 +13,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Polymer dataset](#polymer-dataset)
   - [Polymer representation](#polymer-representation)
   - [Generative model](#generative-model)
+  - [Multi-task learning](#multi-task-learning)
+  - [AI4Polymer review](#ai4polymer-review)
+  - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
+  - [Wechat](#个人微信公众号)
 
 ## Large language model
 
