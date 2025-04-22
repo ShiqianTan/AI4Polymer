@@ -58,6 +58,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Generative model
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
 
+## Multi-task learning
+- [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
+- [Polymer graph neural networks for multitask property learning](https://doi.org/10.1038/s41524-023-01034-3) [2023]
+
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
