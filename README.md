@@ -60,6 +60,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ### Review or benchmarking
 - [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://doi.org/10.1021/acs.jcim.9b00358)
 
+### Others
+- [Ring Repeating Unit: An Upgraded Structure Representation of Linear Condensation Polymers for Property Prediction](https://doi.org/10.1021/acs.jcim.2c01389) [2023]
+
 ## Generative model
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
 
