@@ -28,6 +28,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Polymer design
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
+- [Targeted sequence design within the coarse-grained polymer genome](https://www.science.org/doi/abs/10.1126/sciadv.abc6216) [2020]
 
 ## Polymer dataset
 
@@ -69,6 +70,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Generative model
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
+- [Property-guided generation of complex polymer topologies using variational autoencoders](https://doi.org/10.1038/s41524-024-01328-0) [2024] - Variational auto-encoder.
 
 ## Multi-task learning
 - [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
