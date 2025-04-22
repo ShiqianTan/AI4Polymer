@@ -8,6 +8,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Table of contents
 
 - [Awesome AI for polymer](#ai4polymer-)
+  - [Publication statistics](#publication-statistics)
   - [Large language model](#large-language-model)
   - [Polymer design](#polymer-design)
   - [Polymer dataset](#polymer-dataset)
@@ -21,6 +22,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [AI4Polymer review](#ai4polymer-review)
   - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
   - [Wechat](#个人微信公众号)
+
+## Publication statistics
 
 ## Large language model
 
