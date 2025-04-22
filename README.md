@@ -16,6 +16,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Multi-task learning](#multi-task-learning)
   - [Unsupervised learning](#unsupervised-learning)
   - [Polymer properties prediction](#polymer-properties-prediction)
+  - [High-Throughput Screening](#high-throughput-screening)
   - [AI4Polymer review](#ai4polymer-review)
   - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
   - [Wechat](#个人微信公众号)
@@ -139,6 +140,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
+
+## High-Throughput Screening
+- [High-Throughput Screening and Prediction of High Modulus of Resilience Polymers Using Explainable Machine Learning](https://doi.org/10.1021/acs.jctc.3c00131) [2023]
 
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
