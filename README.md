@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - Polymer genome ([Machine-learning predictions of polymer properties with Polymer Genome](https://doi.org/10.1063/5.0023759)) [2020] - Heirarchical fingerprints.
 ### BigSMILES
 - [BigSMILES: A Structurally-Based Line Notation for Describing Macromolecules](https://doi.org/10.1021/acscentsci.9b00476) [2019]
+- [Is BigSMILES the Friend of Polymer Machine Learning?](https://chemrxiv.org/engage/chemrxiv/article-details/677b61b76dde43c9086fb7f3) [2025]
 ### GNN
 - [A graph representation of molecular ensembles for polymer property prediction](http://dx.doi.org/10.1039/D2SC02839E) - The authors expand molecular graph representations by incorporating “stochastic” edges to describe the average structure of the repeating unit. In effect, these stochastic edges are bonds weighted by their probability of occurring in the polymer chain. This representation can capture (i) the recurrent nature of polymers' repeating units, (ii) the different topologies and isomerisms of polymer chains, and (iii) their varying monomer composition and stoichiometry.
 - [Representing Polymers as Periodic Graphs with Learned Descriptors for Accurate Polymer Property Predictions](https://doi.org/10.1021/acs.jcim.2c00875) - Representing the polymer as a circular graph by linking the head and the tail of the monomer repeating unit.
