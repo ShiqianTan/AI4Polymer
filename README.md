@@ -14,6 +14,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Polymer representation](#polymer-representation)
   - [Generative model](#generative-model)
   - [Multi-task learning](#multi-task-learning)
+  - [Polymer properties prediction](#polymer-properties-prediction)
   - [AI4Polymer review](#ai4polymer-review)
   - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
   - [Wechat](#个人微信公众号)
@@ -66,9 +67,22 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
 - [Polymer graph neural networks for multitask property learning](https://doi.org/10.1038/s41524-023-01034-3) [2023]
 
+## Polymer properties prediction
+
+### Tg
+- [Benchmarking Machine Learning Models for Polymer Informatics: An Example of Glass Transition Temperature](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01031?ref=PDF) [2021]
+- [Machine-Learning-Based Predictive Modeling of Glass Transition Temperatures: A Case of Polyhydroxyalkanoate Homopolymers and Copolymers](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00807) [2019]
+
+### Dielectric properties
+- [Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials](https://onlinelibrary.wiley.com/doi/10.1002/polb.24117) [2016]
+
+### Others
+- [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
+
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
+- [Convergence of Artificial Intelligence, Machine Learning, Cheminformatics, and Polymer Science in Macromolecules](https://doi.org/10.1021/acs.macromol.4c01704) [2024]
 - [Emerging Trends in Machine Learning: A Polymer Perspective](https://pubs.acs.org/doi/10.1021/acspolymersau.2c00053) [2023]
 - [The Rise of Machine Learning in Polymer Discovery](https://doi.org/10.1002/aisy.202200243) [2023]
 - [Machine learning for polymeric materials: an introduction](https://doi.org/10.1002/pi.6345) [2022]
