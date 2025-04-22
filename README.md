@@ -45,6 +45,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Application of machine learning in polyimide structure design and property regulation](https://journals.sagepub.com/doi/abs/10.1177/09540083251313522) [2025]
 - [SPACIER: on-demand polymer design with fully automated all-atom classical molecular dynamics integrated into machine learning pipelines](https://doi.org/10.1038/s41524-024-01492-3) [2025]
 - [Design of Tough 3D Printable Elastomers with Human-in-the-Loop Reinforcement Learning](https://chemrxiv.org/engage/chemrxiv/article-details/67ddbe1f81d2151a0257f3e6) [2025] - RL
+- [Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials for Membrane Separation](https://doi.org/10.1021/acs.est.4c08298) [2025]
+- [Rationally designed high-temperature polymer dielectrics for capacitive energy storage: An experimental and computational alliance](https://doi.org/10.1016/j.progpolymsci.2025.101931) [2025]
 - [AI-guided few-shot inverse design of HDP-mimicking polymers against drug-resistant bacteria](https://doi.org/10.1038/s41467-024-50533-4) [2024]
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 - [Data-Driven Design of Polymer-Based Biomaterials: High-throughput Simulation, Experimentation, and Machine Learning](https://doi.org/10.1021/acsabm.2c00962) [2024]
@@ -155,6 +157,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Bayesian optimization
 - [Physics-constrained multi-objective bayesian optimization to accelerate 3d printing of thermoplastics](https://doi.org/10.1016/j.addma.2024.104204) [2024]
+
+## Physics or chemistry informed neural network/machine learning
+- [A physics-enforced neural network to predict polymer melt viscosity](https://doi.org/10.1038/s41524-025-01532-6) [2025]
 
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
