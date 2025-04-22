@@ -56,6 +56,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
 
 ## AI4Polymer review
+- [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
 - [Emerging Trends in Machine Learning: A Polymer Perspective](https://pubs.acs.org/doi/10.1021/acspolymersau.2c00053) [2023]
 - [Polymer informatics: Current status and critical next steps](https://www.sciencedirect.com/science/article/abs/pii/S0927796X2030053X) [2021]
