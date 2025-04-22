@@ -36,6 +36,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine learning applied to the design and optimization of polymeric materials: A review](https://www.sciencedirect.com/science/article/pii/S2949822824003472) [2025]
 - [Application of machine learning in polyimide structure design and property regulation](https://journals.sagepub.com/doi/abs/10.1177/09540083251313522) [2025]
 - [SPACIER: on-demand polymer design with fully automated all-atom classical molecular dynamics integrated into machine learning pipelines](https://doi.org/10.1038/s41524-024-01492-3) [2025]
+- [Design of Tough 3D Printable Elastomers with Human-in-the-Loop Reinforcement Learning](https://chemrxiv.org/engage/chemrxiv/article-details/67ddbe1f81d2151a0257f3e6) [2025] - RL
 - [AI-guided few-shot inverse design of HDP-mimicking polymers against drug-resistant bacteria](https://doi.org/10.1038/s41467-024-50533-4) [2024]
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 - [Data-Driven Design of Polymer-Based Biomaterials: High-throughput Simulation, Experimentation, and Machine Learning](https://doi.org/10.1021/acsabm.2c00962) [2024]
