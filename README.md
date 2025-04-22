@@ -51,6 +51,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids](https://doi.org/10.1002/adma.202201809) [2022]
 - [Data-driven algorithms for inverse design of polymers](http://dx.doi.org/10.1039/D1SM00725D) [2021]: Review
 - [Automation and data-driven design of polymer therapeutics](https://doi.org/10.1016/j.addr.2020.11.009) [2021]
+- [Sequence-Engineering Polyethylene–Polypropylene Copolymers with High Thermal Conductivity Using a Molecular-Dynamics-Based Genetic Algorithm](https://doi.org/10.1021/acs.jctc.1c00134) [2021]
 - [Targeted sequence design within the coarse-grained polymer genome](https://www.science.org/doi/abs/10.1126/sciadv.abc6216) [2020]
 
 ## Polymer dataset
