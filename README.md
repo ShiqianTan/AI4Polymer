@@ -63,6 +63,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Polymer informatics: Current status and critical next steps](https://www.sciencedirect.com/science/article/abs/pii/S0927796X2030053X) [2021]
 - [Polymer Informatics: Opportunities and Challenges](https://doi.org/10.1021/acsmacrolett.7b00228) [2017]
 
+## AI4Polymer books or chapter
+- [AI Application Potential and Prospects in Materials Science: A Focus on Polymers](https://www.okipublishing.com/book/index.php/okip/catalog/book/62) [2025]
+
 ## 个人微信公众号
 
 ![鲸落生](wechat.jpg)
