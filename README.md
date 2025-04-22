@@ -125,6 +125,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Estimation and Prediction of the Polymers’ Physical Characteristics Using the Machine Learning Models](https://www.mdpi.com/2073-4360/16/1/115) [2024]
 
 ### Tg
+- [TransTg: a new transformer model for predicting glass transition temperature of polymers from monomers’ molecular structures](https://doi.org/10.1007/s00521-024-10532-4) [2025]
 - [Benchmarking Machine Learning Models for Polymer Informatics: An Example of Glass Transition Temperature](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01031?ref=PDF) [2021]
 - [Machine-Learning-Based Predictive Modeling of Glass Transition Temperatures: A Case of Polyhydroxyalkanoate Homopolymers and Copolymers](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00807) [2019]
 
