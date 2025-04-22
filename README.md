@@ -36,9 +36,16 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
 - [Data-Driven Design of Polymer-Based Biomaterials: High-throughput Simulation, Experimentation, and Machine Learning](https://doi.org/10.1021/acsabm.2c00962) [2024]
 - [Computational Design of Peptides for Biomaterials Applications](https://doi.org/10.1021/acsabm.2c01023) [2024]
+- [Design of functional and sustainable polymers assisted by artificial intelligence](https://doi.org/10.1038/s41578-024-00708-8) [2024]
+- [Machine learning-guided discovery of polymer membranes for CO2 separation with genetic algorithm](https://doi.org/10.1016/j.memsci.2024.123169) [2024]
 - [Coarse-Grained Artificial Intelligence for Design of Brush Networks](https://doi.org/10.1021/acsmacrolett.3c00479) [2023]
 - [Polymer sequence design via molecular simulation-based active learning](http://dx.doi.org/10.1039/D2SM01193J) [2023]
+- [Applied machine learning as a driver for polymeric biomaterials design](https://doi.org/10.1038/s41467-023-40459-8) [2023]
+- [Artificial intelligence driven design of catalysts and materials for ring opening polymerization using a domain-specific language](https://doi.org/10.1038/s41467-023-39396-3) [2023]
+- [Inverse Design of Complex Block Copolymers for Exotic Self-Assembled Structures Based on Bayesian Optimization](https://doi.org/10.1021/acsmacrolett.3c00020) [2023]
 - [Data-Driven Methods for Accelerating Polymer Design](https://doi.org/10.1021/acspolymersau.1c00035) [2022]
+- [New Opportunity: Machine Learning for Polymer Materials Design and Discovery](https://doi.org/10.1002/adts.202100565) [2022]
+- [Integration of Machine Learning and Coarse-Grained Molecular Simulations for Polymer Materials: Physical Understandings and Molecular Design](https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2021.820417) [2022]
 - [Data-driven algorithms for inverse design of polymers](http://dx.doi.org/10.1039/D1SM00725D) [2021]: Review
 - [Targeted sequence design within the coarse-grained polymer genome](https://www.science.org/doi/abs/10.1126/sciadv.abc6216) [2020]
 
@@ -48,6 +55,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - PI1M ([PI1M: A Benchmark Database for Polymer Informatics](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00726)) [2020] - A dataset derived from PolyInfo using RNN.
 - [Open Macromolecular Genome: Generative Design of Synthetically Accessible Polymers](https://pubs.acs.org/doi/full/10.1021/acspolymersau.3c00003) [2023] - Synthetically accessible polymer with DFT calculated properties.
 - [POINT2: A Polymer Informatics Training and Testing Database](https://arxiv.org/abs/2503.23491) [2025]
+- [SMiPoly: Generation of a Synthesizable Polymer Virtual Library Using Rule-Based Polymerization Reactions](https://doi.org/10.1021/acs.jcim.3c00329) [2023]
 
 ## Polymer representation
 
@@ -119,6 +127,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
 - [Ten Problems in Polymer Reactivity Prediction](https://doi.org/10.1021/acs.macromol.4c02582) [2025]
 - [Convergence of Artificial Intelligence, Machine Learning, Cheminformatics, and Polymer Science in Macromolecules](https://doi.org/10.1021/acs.macromol.4c01704) [2024]
+- [Artificial Intelligence for Conjugated Polymers](https://doi.org/10.1021/acs.chemmater.3c02358) [2024]
 - [Emerging Trends in Machine Learning: A Polymer Perspective](https://pubs.acs.org/doi/10.1021/acspolymersau.2c00053) [2023]
 - [The Rise of Machine Learning in Polymer Discovery](https://doi.org/10.1002/aisy.202200243) [2023]
 - [Machine learning for polymeric materials: an introduction](https://doi.org/10.1002/pi.6345) [2022]
