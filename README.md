@@ -81,6 +81,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [TransPolymer](https://doi.org/10.1038/s41524-023-01016-5) - A large language model based on RoBERTa architecture for polymer representation and property prediction.
 - [PolyBERT](https://doi.org/10.1038/s41467-023-39868-6) - A large language model based on DeBERTa architecture for polymer representation and multi-task property prediction.
 - PolyNC ([PolyNC: a natural and chemical language model for the prediction of unified polymer properties](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05079c)) [2024] - Based on T5 (encoder-decoder architecture).
+- [Transferring a Molecular Foundation Model for Polymer Property Predictions](https://doi.org/10.1021/acs.jcim.3c01650) [2024] - Transformer-based.
 ### Multi-modality
 - [Multimodal Transformer for Property Prediction in Polymers](https://doi.org/10.1021/acsami.4c01207) - PSMILES, 2D Graph
 - [Mmpolymer: A multimodal multitask pretraining framework for polymer property prediction](https://arxiv.org/abs/2406.04727) - SMILES, 3D geometry
@@ -128,6 +129,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Ten Problems in Polymer Reactivity Prediction](https://doi.org/10.1021/acs.macromol.4c02582) [2025]
 - [Convergence of Artificial Intelligence, Machine Learning, Cheminformatics, and Polymer Science in Macromolecules](https://doi.org/10.1021/acs.macromol.4c01704) [2024]
 - [Artificial Intelligence for Conjugated Polymers](https://doi.org/10.1021/acs.chemmater.3c02358) [2024]
+- [A review on machine learning-guided design of energy materials](https://dx.doi.org/10.1088/2516-1083/ad7220) [2024]
+- [Application of Digital Methods in Polymer Science and Engineering](ttps://doi.org/10.1002/adfm.202309844) [2024]
 - [Emerging Trends in Machine Learning: A Polymer Perspective](https://pubs.acs.org/doi/10.1021/acspolymersau.2c00053) [2023]
 - [The Rise of Machine Learning in Polymer Discovery](https://doi.org/10.1002/aisy.202200243) [2023]
 - [Machine learning for polymeric materials: an introduction](https://doi.org/10.1002/pi.6345) [2022]
