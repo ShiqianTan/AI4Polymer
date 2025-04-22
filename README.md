@@ -147,8 +147,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [Machine learning in polymer informatics](https://doi.org/10.1002/inf2.12167) [2021]
 - [Polymer Informatics: Opportunities and Challenges](https://doi.org/10.1021/acsmacrolett.7b00228) [2017]
 
-## AI4Polymer books or chapter
+## AI4Polymer books or chapters
 - [AI Application Potential and Prospects in Materials Science: A Focus on Polymers](https://www.okipublishing.com/book/index.php/okip/catalog/book/62) [2025]
+- [Polymer Property Prediction Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-78724-9_5) [2025]
 - [Machine Learning for Polymer Informatics](https://pubs.acs.org/doi/10.1021/acsinfocus.7e8007) [2024]
 
 ## 个人微信公众号
