@@ -35,7 +35,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ## Polymer dataset
 
 - [Polyinfo](https://ieeexplore.ieee.org/abstract/document/6076416) - A Japanese website collecting diverse experimental data for polymers from academic papers. PoLyInfo collects information on polymer names, chemical structures, processing methods of samples, measurement conditions, properties, used monomers and polymerization methods.
-- PI1M ([PI1M: A Benchmark Database for Polymer Informatics](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00726)) [2020] - A dataset derived from PolyInfo using RNN. 
+- PI1M ([PI1M: A Benchmark Database for Polymer Informatics](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00726)) [2020] - A dataset derived from PolyInfo using RNN.
+- [Open Macromolecular Genome: Generative Design of Synthetically Accessible Polymers](https://pubs.acs.org/doi/full/10.1021/acspolymersau.3c00003) [2023] - Synthetically accessible polymer with DFT calculated properties.
 
 ## Polymer representation
 
