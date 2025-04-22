@@ -111,7 +111,8 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
 - [Machine Learning-Driven Discovery of Thermoset Shape Memory Polymers With High Glass Transition Temperature Using Variational Autoencoders](https://onlinelibrary.wiley.com/doi/abs/10.1002/pol.20241095) [2025]: VAE
 - [Property-guided generation of complex polymer topologies using variational autoencoders](https://doi.org/10.1038/s41524-024-01328-0) [2024] - Variational auto-encoder.
-- [Graph-to-String Variational Autoencoder for Synthetic Polymer Design](https://openreview.net/forum?id=6E2qjEf7Rs) [2023]: NeurlPS 2023, VAE
+- [Graph-to-String Variational Autoencoder for Synthetic Polymer Design](https://openreview.net/forum?id=6E2qjEf7Rs) [2023] - NeurlPS 2023, VAE
+- [A Large Encoder-Decoder Polymer-Based Foundation Model](https://openreview.net/forum?id=bptYWF8Uy6) [2024] - Encoder-Decoder
 
 ## Multi-task learning
 - [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
