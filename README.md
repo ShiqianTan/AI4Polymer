@@ -169,6 +169,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Multitask Machine Learning to Predict Polymer-Solvent Miscibility Using Flory-Huggins Interaction Parameters](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02600) [2023]
 - [Integrating theory with machine learning for predicting polymer solution phase behavior](https://doi.org/10.1016/j.giant.2023.100171) [2023]
 - [Easy and fast prediction of green solvents for small molecule donor-based organic solar cells through machine learning](http://dx.doi.org/10.1039/D3CP00177F) [2023]
+- [Predicting Multi‐Component Phase Equilibria of Polymers using Approximations to Flory–Huggins Theory](https://onlinelibrary.wiley.com/doi/full/10.1002/mats.202300001) [2023]
 - [A Machine Learning Study of Polymer-Solvent Interactions](https://link.springer.com/article/10.1007/s10118-022-2716-2?utm_source=acs&getft_integrator=acs) [2022]
 - [Estimation of the Flory-Huggins interaction parameter of polymer-solvent mixtures using machine learning](https://link.springer.com/article/10.1557/s43579-022-00237-x) [2022]
 - [Solvent selection for polymers enabled by generalized chemical fingerprinting and machine learning](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp03735a) [2022]
