@@ -116,6 +116,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Multi-domain
 - Uni-Poly [Unified Multimodal Multidomain Polymer Representation for Property Prediction](https://www.researchsquare.com/article/rs-5795287/v1) - SMILES, 2D graphs, 3D geometries, Morgan fingerprints and polymer domain-specific textual descriptions.
+
 ### Review or benchmarking
 - [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://doi.org/10.1021/acs.jcim.9b00358)
 
@@ -130,6 +131,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [A Large Encoder-Decoder Polymer-Based Foundation Model](https://openreview.net/forum?id=bptYWF8Uy6) [2024] - Encoder-Decoder
 
 ## Unsupervised learning
+- [PolyCL: contrastive learning for polymer representation learning via explicit and implicit augmentations](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00236a) [2025] - Contrastive learning
 - [Machine Learning Models and Dimensionality Reduction for Prediction of Polymer Properties](https://doi.org/10.1021/acs.macromol.3c02401) [2024] - Dimensionality reduction
 - [Unsupervised learning of sequence-specific aggregation behavior for a model copolymer](http://dx.doi.org/10.1039/D1SM01012C) [2021]
 
