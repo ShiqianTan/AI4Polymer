@@ -143,6 +143,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## Multi-task learning
 - [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
 - [Polymer graph neural networks for multitask property learning](https://doi.org/10.1038/s41524-023-01034-3) [2023]
+- [Accelerated Scheme to Predict Ring-Opening Polymerization Enthalpy: Simulation-Experimental Data Fusion and Multitask Machine Learning](https://doi.org/10.1021/acs.jpca.3c05870) [2023]
 
 ## Polymer properties prediction
 
@@ -166,6 +167,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Cloud point prediction model for polyvinyl alcohol production plants considering process dynamics](https://www.sciencedirect.com/science/article/pii/S2590123024017274) [2024]
 - [Solubility of selected polymers in cyclohexane: comparison between Flory-Huggins interaction parameters calculated using three different molecular dynamics simulation approaches](https://pubs.rsc.org/en/Content/ArticleLanding/2024/CP/D4CP03690E) [2024]
 - [Multitask Machine Learning to Predict Polymer-Solvent Miscibility Using Flory-Huggins Interaction Parameters](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02600) [2023]
+- [Integrating theory with machine learning for predicting polymer solution phase behavior](https://doi.org/10.1016/j.giant.2023.100171) [2023]
+- [Easy and fast prediction of green solvents for small molecule donor-based organic solar cells through machine learning](http://dx.doi.org/10.1039/D3CP00177F) [2023]
 - [A Machine Learning Study of Polymer-Solvent Interactions](https://link.springer.com/article/10.1007/s10118-022-2716-2?utm_source=acs&getft_integrator=acs) [2022]
 - [Estimation of the Flory-Huggins interaction parameter of polymer-solvent mixtures using machine learning](https://link.springer.com/article/10.1557/s43579-022-00237-x) [2022]
 - [Solvent selection for polymers enabled by generalized chemical fingerprinting and machine learning](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp03735a) [2022]
