@@ -174,6 +174,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Estimation of the Flory-Huggins interaction parameter of polymer-solvent mixtures using machine learning](https://link.springer.com/article/10.1557/s43579-022-00237-x) [2022]
 - [Solvent selection for polymers enabled by generalized chemical fingerprinting and machine learning](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp03735a) [2022]
 - [Deep learning-based estimation of Flory–Huggins parameter of A–B block copolymers from cross-sectional images of phase-separated structures](https://doi.org/10.1038/s41598-021-91761-8) [2021]
+- [Characterization of Polymer-Solvent Interactions and Their Temperature Dependence Using Inverse Gas Chromatography](https://doi.org/10.1021/je00016a024) [1994]: Dataset
 
 ### Polymeric membrane
 - [Data-driven predictions of complex organic mixture permeation in polymer membranes](https://doi.org/10.1038/s41467-023-40257-2) [2023]
