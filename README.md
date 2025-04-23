@@ -174,7 +174,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Convergence of Artificial Intelligence, Machine Learning, Cheminformatics, and Polymer Science in Macromolecules](https://doi.org/10.1021/acs.macromol.4c01704) [2024]
 - [Artificial Intelligence for Conjugated Polymers](https://doi.org/10.1021/acs.chemmater.3c02358) [2024]
 - [A review on machine learning-guided design of energy materials](https://dx.doi.org/10.1088/2516-1083/ad7220) [2024]
-- [Application of Digital Methods in Polymer Science and Engineering](ttps://doi.org/10.1002/adfm.202309844) [2024]
+- [Application of Digital Methods in Polymer Science and Engineering](https://doi.org/10.1002/adfm.202309844) [2024]
 - [Emerging Trends in Machine Learning: A Polymer Perspective](https://pubs.acs.org/doi/10.1021/acspolymersau.2c00053) [2023]
 - [The Rise of Machine Learning in Polymer Discovery](https://doi.org/10.1002/aisy.202200243) [2023]
 - [Machine learning for polymeric materials: an introduction](https://doi.org/10.1002/pi.6345) [2022]
