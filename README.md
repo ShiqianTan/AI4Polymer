@@ -160,7 +160,11 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### Solubility
 - [Data-Driven Prediction of Flory−Huggins Parameter for Quantifying Polymer−Solvent Interaction](https://pubs.acs.org/doi/10.1021/acs.iecr.4c04761) [2025]
 - [Predicting homopolymer and copolymer solubility through machine learning](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00290c) [2025]
+- [Recycling of a Polymer Mixture Through Dissolution-Precipitation and Development of Machine Learning Models to Assess Polymer/Solvent Suitability](https://onlinelibrary.wiley.com/doi/10.1002/pol.20241131?af=R) [2025]
 - [Machine Learning Models for Predicting Polymer Solubility in Solvents across Concentrations and Temperatures](https://doi.org/10.1021/acs.jpcb.4c06500) [2024]
+- [Predicting polymer solubility from phase diagrams to compatibility: a perspective on challenges and opportunities](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00590b) [2024]
+- [Cloud point prediction model for polyvinyl alcohol production plants considering process dynamics](https://www.sciencedirect.com/science/article/pii/S2590123024017274) [2024]
+- [Solubility of selected polymers in cyclohexane: comparison between Flory-Huggins interaction parameters calculated using three different molecular dynamics simulation approaches](https://pubs.rsc.org/en/Content/ArticleLanding/2024/CP/D4CP03690E) [2024]
 - [Multitask Machine Learning to Predict Polymer-Solvent Miscibility Using Flory-Huggins Interaction Parameters](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02600) [2023]
 - [A Machine Learning Study of Polymer-Solvent Interactions](https://link.springer.com/article/10.1007/s10118-022-2716-2?utm_source=acs&getft_integrator=acs) [2022]
 - [Estimation of the Flory-Huggins interaction parameter of polymer-solvent mixtures using machine learning](https://link.springer.com/article/10.1557/s43579-022-00237-x) [2022]
