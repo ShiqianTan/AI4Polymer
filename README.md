@@ -159,9 +159,12 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Solubility
 - [Data-Driven Prediction of Flory−Huggins Parameter for Quantifying Polymer−Solvent Interaction](https://pubs.acs.org/doi/10.1021/acs.iecr.4c04761) [2025]
+- [Predicting homopolymer and copolymer solubility through machine learning](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00290c) [2025]
 - [Machine Learning Models for Predicting Polymer Solubility in Solvents across Concentrations and Temperatures](https://doi.org/10.1021/acs.jpcb.4c06500) [2024]
+- [Multitask Machine Learning to Predict Polymer-Solvent Miscibility Using Flory-Huggins Interaction Parameters](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02600) [2023]
 - [A Machine Learning Study of Polymer-Solvent Interactions](https://link.springer.com/article/10.1007/s10118-022-2716-2?utm_source=acs&getft_integrator=acs) [2022]
 - [Estimation of the Flory-Huggins interaction parameter of polymer-solvent mixtures using machine learning](https://link.springer.com/article/10.1557/s43579-022-00237-x) [2022]
+- [Solvent selection for polymers enabled by generalized chemical fingerprinting and machine learning](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp03735a) [2022]
 
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
