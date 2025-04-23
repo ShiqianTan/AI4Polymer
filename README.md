@@ -91,12 +91,15 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### PSMILES
 - [Enhancing Copolymer Property Prediction through the Weighted-Chained-SMILES Machine Learning Framework](https://doi.org/10.1021/acsapm.3c02715) - The authors use weighted-chained-SMILES to represent copolymers.
 - Polymer genome ([Machine-learning predictions of polymer properties with Polymer Genome](https://doi.org/10.1063/5.0023759)) [2020] - Heirarchical fingerprints.
+
 ### BigSMILES
 - [BigSMILES: A Structurally-Based Line Notation for Describing Macromolecules](https://doi.org/10.1021/acscentsci.9b00476) [2019]
 - [Is BigSMILES the Friend of Polymer Machine Learning?](https://chemrxiv.org/engage/chemrxiv/article-details/677b61b76dde43c9086fb7f3) [2025]
+
 ### GNN
 - [A graph representation of molecular ensembles for polymer property prediction](http://dx.doi.org/10.1039/D2SC02839E) - The authors expand molecular graph representations by incorporating “stochastic” edges to describe the average structure of the repeating unit. In effect, these stochastic edges are bonds weighted by their probability of occurring in the polymer chain. This representation can capture (i) the recurrent nature of polymers' repeating units, (ii) the different topologies and isomerisms of polymer chains, and (iii) their varying monomer composition and stoichiometry.
 - [Representing Polymers as Periodic Graphs with Learned Descriptors for Accurate Polymer Property Predictions](https://doi.org/10.1021/acs.jcim.2c00875) - Representing the polymer as a circular graph by linking the head and the tail of the monomer repeating unit.
+
 ### 3D geometry
 - [Uni-mol]
 
@@ -105,6 +108,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [PolyBERT](https://doi.org/10.1038/s41467-023-39868-6) - A large language model based on DeBERTa architecture for polymer representation and multi-task property prediction.
 - PolyNC ([PolyNC: a natural and chemical language model for the prediction of unified polymer properties](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05079c)) [2024] - Based on T5 (encoder-decoder architecture).
 - [Transferring a Molecular Foundation Model for Polymer Property Predictions](https://doi.org/10.1021/acs.jcim.3c01650) [2024] - Transformer-based.
+
 ### Multi-modality
 - [Multimodal Transformer for Property Prediction in Polymers](https://doi.org/10.1021/acsami.4c01207) - PSMILES, 2D Graph
 - [Mmpolymer: A multimodal multitask pretraining framework for polymer property prediction](https://arxiv.org/abs/2406.04727) - SMILES, 3D geometry
@@ -153,6 +157,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials](https://onlinelibrary.wiley.com/doi/10.1002/polb.24117) [2016]
 
 ### Solubility
+- [Data-Driven Prediction of Flory−Huggins Parameter for Quantifying Polymer−Solvent Interaction](https://pubs.acs.org/doi/10.1021/acs.iecr.4c04761) [2025]
 - [Machine Learning Models for Predicting Polymer Solubility in Solvents across Concentrations and Temperatures](https://doi.org/10.1021/acs.jpcb.4c06500) [2024]
 
 ### Others
