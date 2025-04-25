@@ -192,6 +192,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Creation of Polymer Datasets with Targeted Backbones for Screening of High-Performance Membranes for Gas Separation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01232) [2024]
 - [Data-driven predictions of complex organic mixture permeation in polymer membranes](https://doi.org/10.1038/s41467-023-40257-2) [2023]
 
+### Polyimide
+- [Application of machine learning in polyimide structure design and property regulation](https://journals.sagepub.com/doi/abs/10.1177/09540083251313522) [2025]
+
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
 
