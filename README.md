@@ -70,6 +70,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Automation and data-driven design of polymer therapeutics](https://doi.org/10.1016/j.addr.2020.11.009) [2021]
 - [Sequence-Engineering Polyethylene–Polypropylene Copolymers with High Thermal Conductivity Using a Molecular-Dynamics-Based Genetic Algorithm](https://doi.org/10.1021/acs.jctc.1c00134) [2021]
 - [Targeted sequence design within the coarse-grained polymer genome](https://www.science.org/doi/abs/10.1126/sciadv.abc6216) [2020]
+- [Machine-learning-assisted discovery of polymers with high thermal conductivity using a molecular design algorithm](https://www.nature.com/articles/s41524-019-0203-2) [2019]
 - [Scoping the polymer genome: A roadmap for rational polymer dielectrics design and beyond](https://doi.org/10.1016/j.mattod.2017.11.021) [2018]
 
 ## Polymer dataset
