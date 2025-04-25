@@ -166,6 +166,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Data-Driven Prediction of Flory−Huggins Parameter for Quantifying Polymer−Solvent Interaction](https://pubs.acs.org/doi/10.1021/acs.iecr.4c04761) [2025]
 - [Predicting homopolymer and copolymer solubility through machine learning](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00290c) [2025]
 - [Recycling of a Polymer Mixture Through Dissolution-Precipitation and Development of Machine Learning Models to Assess Polymer/Solvent Suitability](https://onlinelibrary.wiley.com/doi/10.1002/pol.20241131?af=R) [2025]
+- [Ensemble machine learning to accelerate industrial decarbonization: Prediction of Hansen solubility parameters for streamlined chemical solvent selection](https://www.sciencedirect.com/science/article/pii/S2772508124000693?via%3Dihub) [2025]
 - [Machine Learning Models for Predicting Polymer Solubility in Solvents across Concentrations and Temperatures](https://doi.org/10.1021/acs.jpcb.4c06500) [2024]
 - [Predicting polymer solubility from phase diagrams to compatibility: a perspective on challenges and opportunities](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00590b) [2024]
 - [Cloud point prediction model for polyvinyl alcohol production plants considering process dynamics](https://www.sciencedirect.com/science/article/pii/S2590123024017274) [2024]
