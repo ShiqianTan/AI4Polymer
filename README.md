@@ -181,6 +181,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Characterization of Polymer-Solvent Interactions and Their Temperature Dependence Using Inverse Gas Chromatography](https://doi.org/10.1021/je00016a024) [1994]: Dataset
 
 ### Polymeric membrane
+- [Machine learning for the advancement of membrane science and technology: A critical review](https://www.sciencedirect.com/science/article/pii/S0376738824008500) [2025]
 - [Data-driven predictions of complex organic mixture permeation in polymer membranes](https://doi.org/10.1038/s41467-023-40257-2) [2023]
 
 ### Others
