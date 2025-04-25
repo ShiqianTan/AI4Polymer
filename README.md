@@ -192,6 +192,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [High-Throughput Screening and Prediction of High Modulus of Resilience Polymers Using Explainable Machine Learning](https://doi.org/10.1021/acs.jctc.3c00131) [2023]
 
 ## Bayesian optimization
+- [Accelerated Development of Novel Biomass-Based Polyurethane Adhesives via Machine Learning](https://www.ncbi.nlm.nih.gov/pubmed/40017372) [2025]
 - [Physics-constrained multi-objective bayesian optimization to accelerate 3d printing of thermoplastics](https://doi.org/10.1016/j.addma.2024.104204) [2024]
 
 ## Physics or chemistry informed neural network/machine learning
