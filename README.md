@@ -184,6 +184,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### Polymeric membrane
 - [Machine learning for the advancement of membrane science and technology: A critical review](https://www.sciencedirect.com/science/article/pii/S0376738824008500) [2025]
 - [Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials for Membrane Separation](https://doi.org/10.1021/acs.est.4c08298) [2025]
+- [A systematic review of recent advances in the application of machine learning in membrane-based gas separation technologies](https://www.sciencedirect.com/science/article/pii/S030626192402587X?via%3Dihub) [2025]
 - [Data-driven predictions of complex organic mixture permeation in polymer membranes](https://doi.org/10.1038/s41467-023-40257-2) [2023]
 
 ### Others
