@@ -133,6 +133,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## Generative model
 - [PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models](https://arxiv.org/pdf/2504.08859) [2025] - Masked generative model, SE(3)/SO(3) diffusion model
 - [Machine Learning-Driven Discovery of Thermoset Shape Memory Polymers With High Glass Transition Temperature Using Variational Autoencoders](https://onlinelibrary.wiley.com/doi/abs/10.1002/pol.20241095) [2025]: VAE
+- [A materials discovery framework based on conditional generative models applied to the design of polymer electrolytes](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00293h) [2025]: minGPT
 - [Property-guided generation of complex polymer topologies using variational autoencoders](https://doi.org/10.1038/s41524-024-01328-0) [2024] - Variational auto-encoder.
 - [Graph-to-String Variational Autoencoder for Synthetic Polymer Design](https://openreview.net/forum?id=6E2qjEf7Rs) [2023] - NeurlPS 2023, VAE
 - [A Large Encoder-Decoder Polymer-Based Foundation Model](https://openreview.net/forum?id=bptYWF8Uy6) [2024] - Encoder-Decoder
