@@ -188,6 +188,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials for Membrane Separation](https://doi.org/10.1021/acs.est.4c08298) [2025]
 - [A systematic review of recent advances in the application of machine learning in membrane-based gas separation technologies](https://www.sciencedirect.com/science/article/pii/S030626192402587X?via%3Dihub) [2025]
 - [Machine Learning for Polymer Design to Enhance Pervaporation-Based Organic Recovery](https://pubs.acs.org/doi/10.1021/acs.est.4c00060) [2024]
+- [Transcend the boundaries: Machine learning for designing polymeric membrane materials for gas separation](https://doi.org/10.1063/5.0205433) [2024]
+- [Creation of Polymer Datasets with Targeted Backbones for Screening of High-Performance Membranes for Gas Separation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01232) [2024]
 - [Data-driven predictions of complex organic mixture permeation in polymer membranes](https://doi.org/10.1038/s41467-023-40257-2) [2023]
 
 ### Others
