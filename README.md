@@ -139,6 +139,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Unsupervised learning
 - [PolyCL: contrastive learning for polymer representation learning via explicit and implicit augmentations](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00236a) [2025] - Contrastive learning
+- [Harnessing large language models for data-scarce learning of polymer properties](https://www.nature.com/articles/s43588-025-00768-y) [2025] - Supervised pretraining using dataset synthesized with group-contribution method  
 - [Machine Learning Models and Dimensionality Reduction for Prediction of Polymer Properties](https://doi.org/10.1021/acs.macromol.3c02401) [2024] - Dimensionality reduction
 - [Unsupervised learning of sequence-specific aggregation behavior for a model copolymer](http://dx.doi.org/10.1039/D1SM01012C) [2021]
 
