@@ -193,6 +193,11 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## Physics or chemistry informed neural network/machine learning
 - [A physics-enforced neural network to predict polymer melt viscosity](https://doi.org/10.1038/s41524-025-01532-6) [2025]
 
+## Polymer characterization
+- [Machine learning for analyzing atomic force microscopy (AFM) images generated from polymer blends(https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00215f#fn1) [2024] - AFM
+- [Machine learning for analyses and automation of structural characterization of polymer materials]( https://doi.org/10.1016/j.progpolymsci.2024.101828) [2024]
+- [Molecular Characterization of Polymer Networks](https://www.ncbi.nlm.nih.gov/pubmed/33792299) [2021]
+
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
