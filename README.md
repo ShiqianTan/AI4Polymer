@@ -241,6 +241,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Thermal conductivity of polydisperse hexagonal BN/polyimide composites: Iterative EMT model and machine learning based on first principles investigation](https://doi.org/10.1016/j.cej.2022.135438) [2022]
 - [Hydrothermal polymerization of porous aromatic polyimide networks and machine learning-assisted computational morphology evolution interpretation](https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta01253c) [2021]
 - [Determination of glass transition temperature of polyimides from atomistic molecular dynamics simulations and machine-learning algorithms](https://doi.org/10.1002/pol.20200050) [2020]
+- [Accelerated Discovery of High-Refractive-Index Polyimides via First-Principles Molecular Modeling, Virtual High-Throughput Screening, and Data Mining](https://doi.org/10.1021/acs.jpcc.9b01147) [2019]
 - [Random forest and multilayer perceptron for predicting the dielectric loss of polyimide nanocomposite films](http://dx.doi.org/10.1039/C7RA04147K) [2017]
 
 ### Others
