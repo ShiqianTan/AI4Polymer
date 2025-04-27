@@ -231,6 +231,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Predicting and screening high-performance polyimide membranes using negative correlation based deep ensemble methods](https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01160k/unauth) [2024]
 - [Multi-property prediction and high-throughput screening of polyimides: An application case for interpretable machine learning](https://www.sciencedirect.com/science/article/abs/pii/S003238612400939X) [2024]
 - [Accelerating Discovery of Polyimides with Intrinsic Microporosity for Membrane-Based Gas Separation: Synergizing Physics-Informed Performance Metrics and Active Learning](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202314683) [2024]
+- [Heat-Resistant Polymer Discovery by Utilizing Interpretable Graph Neural Network with Small Data](https://pubs.acs.org/doi/10.1021/acs.macromol.4c00508) [2024]
+- [Predicting and screening high-performance polyimide membranes using negative correlation based deep ensemble methods](https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01160k) [2024]
 - [Property Prediction and Structural Feature Extraction of Polyimide Materials Based on Machine Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00326) [2023]
 - [Explainable machine learning for unraveling solvent effects in polyimide organic solvent nanofiltration membranes](https://doi.org/10.1016/j.advmem.2023.100061) [2023]
 - [Improved artificial neural networks (ANNs) for predicting the gas separation performance of polyimides](https://doi.org/10.1016/j.memsci.2023.121765) [2023]
