@@ -57,6 +57,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Design of functional and sustainable polymers assisted by artificial intelligence](https://doi.org/10.1038/s41578-024-00708-8) [2024]
 - [Machine learning-guided discovery of polymer membranes for CO2 separation with genetic algorithm](https://doi.org/10.1016/j.memsci.2024.123169) [2024]
 - [Transcend the boundaries: Machine learning for designing polymeric membrane materials for gas separation](https://doi.org/10.1063/5.0205433) [2024]
+- [Designing of potential polymer donors with lower reorganization energy and chemical space exploration in search of materials for efficient organic solar cells](https://www.sciencedirect.com/science/article/abs/pii/S2352492824018610) [2024]
 - [Coarse-Grained Artificial Intelligence for Design of Brush Networks](https://doi.org/10.1021/acsmacrolett.3c00479) [2023]
 - [Polymer sequence design via molecular simulation-based active learning](http://dx.doi.org/10.1039/D2SM01193J) [2023]
 - [Applied machine learning as a driver for polymeric biomaterials design](https://doi.org/10.1038/s41467-023-40459-8) [2023]
