@@ -164,6 +164,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Machine-Learning-Based Predictive Modeling of Glass Transition Temperatures: A Case of Polyhydroxyalkanoate Homopolymers and Copolymers](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00807) [2019]
 
 ### Dielectric properties
+- [Recent Progress and Future Prospects on All-Organic Polymer Dielectrics for Energy Storage Capacitors](https://doi.org/10.1021/acs.chemrev.1c00793) [2022] - Review
 - [Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials](https://onlinelibrary.wiley.com/doi/10.1002/polb.24117) [2016]
 
 ### Solubility
