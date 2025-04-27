@@ -208,6 +208,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Data science-centric design, discovery, and evaluation of novel synthetically accessible polyimides with desired dielectric constants](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc05000b) [2024]
 - [Predicting and screening high-performance polyimide membranes using negative correlation based deep ensemble methods](https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01160k/unauth) [2024]
 - [Property Prediction and Structural Feature Extraction of Polyimide Materials Based on Machine Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00326) [2023]
+- [Explainable machine learning for unraveling solvent effects in polyimide organic solvent nanofiltration membranes](https://doi.org/10.1016/j.advmem.2023.100061) [2023]
+- [Hydrothermal polymerization of porous aromatic polyimide networks and machine learning-assisted computational morphology evolution interpretation](https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta01253c) [2021]
 
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
