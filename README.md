@@ -236,6 +236,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Machine-Learning-Enabled Framework in Engineering Plastics Discovery: A Case Study of Designing Polyimides with Desired Glass-Transition Temperature](https://doi.org/10.1021/acsami.3c05376) [2023]
 - [Designing sulfonated polyimide-based fuel cell polymer electrolyte membranes using machine learning approaches](https://doi.org/10.1016/j.commatsci.2022.111974) [2023]
 - [Discovery of multi-functional polyimides through high-throughput screening using explainable machine learning](https://doi.org/10.1016/j.cej.2023.142949) [2023]
+- [High-temperature energy storage polyimide dielectric materials: polymer multiple-structure design](https://www.sciencedirect.com/science/article/abs/pii/S2468606922002751) [2023]
 - [Predicting Dielectric Constant of Polyimide Composites Using Data-Driven Wavelet Kernel Deep Gaussian Process](https://ieeexplore.ieee.org/document/9775797) [2022]
 - [Machine Learning with Enormous “Synthetic” Data Sets: Predicting Glass Transition Temperature of Polyimides Using Graph Convolutional Neural Networks](https://pubs.acs.org/doi/10.1021/acsomega.2c04649) [2022]
 - [Thermal conductivity of polydisperse hexagonal BN/polyimide composites: Iterative EMT model and machine learning based on first principles investigation](https://doi.org/10.1016/j.cej.2022.135438) [2022]
