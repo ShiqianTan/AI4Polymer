@@ -164,6 +164,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Transfer learning
 - [Thermal stability prediction of copolymerized polyimides via an interpretable transfer learning model](https://www.oaepublish.com/articles/jmi.2024.13) [2024]
+- [Understanding Polymers Through Transfer Learning and Explainable AI](https://www.mdpi.com/2076-3417/14/22/10413) [2024]
 
 ## Reinforce learning
 - [Glass Transition Temperature Prediction of Polymers via Graph Reinforcement Learning](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c01906?casa_token=EIhhqO2BNG4AAAAA%3ADWj3_54sEj9F9FE3UKrv67O2y9SPwlpsY8a3zBLVq09W8M1QgJD13yAOeyDw-1qzWCdj1aXq-L7f_wUxew) [2024]
