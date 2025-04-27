@@ -123,6 +123,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Multimodal Transformer for Property Prediction in Polymers](https://doi.org/10.1021/acsami.4c01207) - PSMILES, 2D Graph
 - [Mmpolymer: A multimodal multitask pretraining framework for polymer property prediction](https://arxiv.org/abs/2406.04727) - SMILES, 3D geometry
 - [Multimodal machine learning with large language embedding model for polymer property prediction](https://arxiv.org/abs/2503.22962) [2025] - PSMILES, 3D geometry (Uni-Mol), LLM (Llama) encodering latent vectors
+- [Agentic Mixture-of-Workflows for Multi-Modal Chemical Search]([https://link.springer.com/article/10.1134/S1811238225600041](https://arxiv.org/abs/2502.19629)) [2025]
 
 ### Polymer similarity
 - [MacroSimGNN: Efficient and Accurate Calculation of Macromolecule Pairwise Similarity via Graph Neural Network](https://chemrxiv.org/engage/chemrxiv/article-details/676575b86dde43c908c95dba) [2024]
