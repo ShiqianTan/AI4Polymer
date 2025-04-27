@@ -50,6 +50,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Rationally designed high-temperature polymer dielectrics for capacitive energy storage: An experimental and computational alliance](https://doi.org/10.1016/j.progpolymsci.2025.101931) [2025]
 - [AI-driven design of fluorine-free polymers for sustainable and high-performance anion exchange membranes](https://www.oaepublish.com/articles/jmi.2024.69) [2025]
 - [Deep learning accelerates reverse design of Magnetorheological elastomer](https://www.sciencedirect.com/science/article/pii/S0266353825001162?via%3Dihub#sec2) [2025]
+- [Machine learning-assisted designing of compounds with higher glass transition temperature. Chemical space visualization and synthetic accessibility determination](https://pubs.rsc.org/en/content/articlelanding/2025/nj/d5nj00035a/unauth) [2025]
 - [AI-guided few-shot inverse design of HDP-mimicking polymers against drug-resistant bacteria](https://doi.org/10.1038/s41467-024-50533-4) [2024]
 - [AI-Guided Inverse Design and Discovery of Recyclable Vitrimeric Polymers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202411385) [2024]
 - [On-demand reverse design of polymers with PolyTAO](https://www.nature.com/articles/s41524-024-01466-5#citeas) [2024]
@@ -96,6 +97,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## Polymer representation
 
 ### Fingerprints or descriptors
+- [PolyMetriX: An Ecosystem for Digital Polymer Chemistry](https://chemrxiv.org/engage/chemrxiv/article-details/67e1a4b381d2151a02a20112) [2025] - Hierarchical featurization
 - ECFP ([Extended-Connectivity Fingerprints](https://pubs.acs.org/doi/10.1021/ci100050t)) - Extended-connectivity fingerprints (ECFPs) is a class of topological fingerprints for molecular characterization. Historically, topological fingerprints were developed for substructure and similarity searching. Their features represent the presence of particular substructures, allowing easier interpretation of analysis results.
 - [Featurization strategies for polymer sequence or composition design by machine learning](http://dx.doi.org/10.1039/D1ME00160D) [2022]
 - Mordred ([Mordred: a molecular descriptor calculator](https://doi.org/10.1186/s13321-018-0258-y)) [2018] - Mordred is an open-source tool capable of calculating constitutional descriptors (e.g., molecular weight and atom counts), topological descriptors (information about molecular connectivity and branching), geometrical descriptors (three-dimensional shape and size parameters), electronic descriptors (properties related to electron distribution within the molecule), and physicochemical descriptors (such as solubility parameters and polar surface area).
