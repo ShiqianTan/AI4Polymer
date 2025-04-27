@@ -228,6 +228,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Vertical Model for Polyimide Design Assisted by Knowledge-fused Large Language Models](https://chemrxiv.org/engage/chemrxiv/article-details/67d39b74fa469535b9284832) [2025]
 - [Data science-centric design, discovery, and evaluation of novel synthetically accessible polyimides with desired dielectric constants](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc05000b) [2024]
 - [Predicting and screening high-performance polyimide membranes using negative correlation based deep ensemble methods](https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01160k/unauth) [2024]
+- [Multi-property prediction and high-throughput screening of polyimides: An application case for interpretable machine learning](https://www.sciencedirect.com/science/article/abs/pii/S003238612400939X) [2024]
 - [Property Prediction and Structural Feature Extraction of Polyimide Materials Based on Machine Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00326) [2023]
 - [Explainable machine learning for unraveling solvent effects in polyimide organic solvent nanofiltration membranes](https://doi.org/10.1016/j.advmem.2023.100061) [2023]
 - [Improved artificial neural networks (ANNs) for predicting the gas separation performance of polyimides](https://doi.org/10.1016/j.memsci.2023.121765) [2023]
