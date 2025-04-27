@@ -280,6 +280,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Machine learning for polymeric materials: an introduction](https://doi.org/10.1002/pi.6345) [2022]
 - [Polymer informatics: Current status and critical next steps](https://www.sciencedirect.com/science/article/abs/pii/S0927796X2030053X) [2021]
 - [Machine learning in polymer informatics](https://doi.org/10.1002/inf2.12167) [2021]
+- [Polymer Genome: A Data-Powered Polymer Informatics Platform for Property Predictions](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02913) [2018]
 - [Polymer Informatics: Opportunities and Challenges](https://doi.org/10.1021/acsmacrolett.7b00228) [2017]
 
 ## AI4Polymer books or chapters
