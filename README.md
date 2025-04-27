@@ -108,6 +108,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### GNN
 - [A graph representation of molecular ensembles for polymer property prediction](http://dx.doi.org/10.1039/D2SC02839E) - The authors expand molecular graph representations by incorporating “stochastic” edges to describe the average structure of the repeating unit. In effect, these stochastic edges are bonds weighted by their probability of occurring in the polymer chain. This representation can capture (i) the recurrent nature of polymers' repeating units, (ii) the different topologies and isomerisms of polymer chains, and (iii) their varying monomer composition and stoichiometry.
 - [Representing Polymers as Periodic Graphs with Learned Descriptors for Accurate Polymer Property Predictions](https://doi.org/10.1021/acs.jcim.2c00875) - Representing the polymer as a circular graph by linking the head and the tail of the monomer repeating unit.
+- [Graph neural networks for materials science and chemistry](https://www.nature.com/articles/s43246-022-00315-6) [2022]: Review
 
 ### 3D geometry
 - [Uni-mol]
@@ -229,6 +230,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## MD
 - [Machine learning-assisted exploration of thermally conductive polymers based on high-throughput molecular dynamics simulations](https://doi.org/10.1016/j.mtphys.2022.100850) [2020]
+
+## Nature and Science papers
+- [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
 
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
