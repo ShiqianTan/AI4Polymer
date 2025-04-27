@@ -161,6 +161,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### Tg
 - [TransTg: a new transformer model for predicting glass transition temperature of polymers from monomers’ molecular structures](https://doi.org/10.1007/s00521-024-10532-4) [2025]
 - [Benchmarking Machine Learning Models for Polymer Informatics: An Example of Glass Transition Temperature](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01031?ref=PDF) [2021]
+- [Machine learning discovery of high-temperature polymers](https://doi.org/10.1016/j.patter.2021.100225) [2021]
 - [Machine-Learning-Based Predictive Modeling of Glass Transition Temperatures: A Case of Polyhydroxyalkanoate Homopolymers and Copolymers](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00807) [2019]
 
 ### Dielectric properties
