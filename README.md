@@ -215,6 +215,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Bayesian optimization
 - [Accelerated Development of Novel Biomass-Based Polyurethane Adhesives via Machine Learning](https://www.ncbi.nlm.nih.gov/pubmed/40017372) [2025]
+- [https://chemrxiv.org/engage/chemrxiv/article-details/6751263ff9980725cf1b53dd](https://chemrxiv.org/engage/chemrxiv/article-details/6751263ff9980725cf1b53dd) [2025]
 - [Physics-constrained multi-objective bayesian optimization to accelerate 3d printing of thermoplastics](https://doi.org/10.1016/j.addma.2024.104204) [2024]
 
 ## Physics or chemistry informed neural network/machine learning
