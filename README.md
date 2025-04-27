@@ -62,6 +62,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Applied machine learning as a driver for polymeric biomaterials design](https://doi.org/10.1038/s41467-023-40459-8) [2023]
 - [Artificial intelligence driven design of catalysts and materials for ring opening polymerization using a domain-specific language](https://doi.org/10.1038/s41467-023-39396-3) [2023]
 - [Inverse Design of Complex Block Copolymers for Exotic Self-Assembled Structures Based on Bayesian Optimization](https://doi.org/10.1021/acsmacrolett.3c00020) [2023]
+- [Designing tailored combinations of structural units in polymer dielectrics for high-temperature capacitive energy storage](https://www.nature.com/articles/s41467-023-38145-w) [2023]
 - [Data-Driven Methods for Accelerating Polymer Design](https://doi.org/10.1021/acspolymersau.1c00035) [2022]
 - [New Opportunity: Machine Learning for Polymer Materials Design and Discovery](https://doi.org/10.1002/adts.202100565) [2022]
 - [Integration of Machine Learning and Coarse-Grained Molecular Simulations for Polymer Materials: Physical Understandings and Molecular Design](https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2021.820417) [2022]
