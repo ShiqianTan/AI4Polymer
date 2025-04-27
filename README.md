@@ -167,6 +167,13 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Tg
 - [TransTg: a new transformer model for predicting glass transition temperature of polymers from monomers’ molecular structures](https://doi.org/10.1007/s00521-024-10532-4) [2025]
+- [Predicting glass transition temperatures for structurally diverse polymers](https://link.springer.com/article/10.1007/s00396-025-05421-8) [2025]
+- [Data-Driven Modeling and Design of Sustainable High Tg Polymers](https://www.mdpi.com/1422-0067/26/6/2743) [2025]
+- [Large-Scale Glass-Transition Temperature Prediction with an Equivariant Neural Network for Screening Polymers](https://pubs.acs.org/doi/full/10.1021/acsomega.3c06843) [2024]
+- [Prediction and Interpretability Study of the Glass Transition Temperature of Polyimide Based on Machine Learning with Quantitative Structure–Property Relationship (Tg-QSPR)](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c00756?casa_token=B_j6gRhblYwAAAAA%3A5T1TZNgVDbLYfg1OBiDBDkr0-kT9y5e9wdh86MUGKRbp9I3Qj9d5-IRWNh-DKHJ2Ui1S8LvZpKxMRUM2Ug) [2024]
+- [Interpretable Machine Learning Framework to Predict the Glass Transition Temperature of Polymers](https://www.mdpi.com/2073-4360/16/8/1049) [2024]
+- [Visual analytics of an interpretable prediction model for the glass transition temperature of fluoroelastomers](https://www.sciencedirect.com/science/article/pii/S2352492824021366) [2024]
+- [A glimpse inside materials: Polymer structure – Glass transition temperature relationship as observed by a trained artificial intelligence](https://www.sciencedirect.com/science/article/pii/S0927025624000843?casa_token=KLl3PBQfQdAAAAAA:WsOdj98XrfVKuFXCIGrY24GBi4Q-JujNynnqFTrPbsfHlWpPUzMzLiFEJWVgEuSoe16WDRkX9Zv7) [2024]
 - [Benchmarking Machine Learning Models for Polymer Informatics: An Example of Glass Transition Temperature](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01031?ref=PDF) [2021]
 - [Machine learning discovery of high-temperature polymers](https://doi.org/10.1016/j.patter.2021.100225) [2021]
 - [Machine-Learning-Based Predictive Modeling of Glass Transition Temperatures: A Case of Polyhydroxyalkanoate Homopolymers and Copolymers](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00807) [2019]
@@ -206,6 +213,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Polyimide
 - [Application of machine learning in polyimide structure design and property regulation](https://journals.sagepub.com/doi/abs/10.1177/09540083251313522) [2025]
+- [Vertical Model for Polyimide Design Assisted by Knowledge-fused Large Language Models](https://chemrxiv.org/engage/chemrxiv/article-details/67d39b74fa469535b9284832) [2025]
 - [Data science-centric design, discovery, and evaluation of novel synthetically accessible polyimides with desired dielectric constants](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc05000b) [2024]
 - [Predicting and screening high-performance polyimide membranes using negative correlation based deep ensemble methods](https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01160k/unauth) [2024]
 - [Property Prediction and Structural Feature Extraction of Polyimide Materials Based on Machine Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00326) [2023]
