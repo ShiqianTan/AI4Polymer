@@ -73,6 +73,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Machine-learning-assisted discovery of polymers with high thermal conductivity using a molecular design algorithm](https://www.nature.com/articles/s41524-019-0203-2) [2019]
 - [Scoping the polymer genome: A roadmap for rational polymer dielectrics design and beyond](https://doi.org/10.1016/j.mattod.2017.11.021) [2018]
 
+## Properties optimization
+- [Machine-Learning-Enhanced Trial-and-Error for Efficient Optimization of Rubber Composites](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202407763?casa_token=gxZVHNIKTKIAAAAA%3AoURMnvZMTWKX0zmAWEh9xf912aHiBaq2kxGL4BouuE6UGh6UhwrZMkpQbA3itGj_hPD6Sq93sKlgBt0) [2025]
+
 ## Polymer dataset
 
 - [Polyinfo](https://ieeexplore.ieee.org/abstract/document/6076416) - A Japanese website collecting diverse experimental data for polymers from academic papers. PoLyInfo collects information on polymer names, chemical structures, processing methods of samples, measurement conditions, properties, used monomers and polymerization methods.
@@ -121,6 +124,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Multimodal machine learning with large language embedding model for polymer property prediction](https://arxiv.org/abs/2503.22962) [2025] - PSMILES, 3D geometry (Uni-Mol), LLM (Llama) encodering latent vectors
 
 ### Polymer similarity
+- [MacroSimGNN: Efficient and Accurate Calculation of Macromolecule Pairwise Similarity via Graph Neural Network](https://chemrxiv.org/engage/chemrxiv/article-details/676575b86dde43c908c95dba) [2024]
 - [Calculating Pairwise Similarity of Polymer Ensembles via Earth Mover’s Distance](https://doi.org/10.1021/acspolymersau.3c00029) [2024]
 - [Quantifying Pairwise Similarity for Complex Polymers](https://doi.org/10.1021/acs.macromol.3c00761) [2023]
 
@@ -149,6 +153,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Unsupervised learning of sequence-specific aggregation behavior for a model copolymer](http://dx.doi.org/10.1039/D1SM01012C) [2021]
 
 ## Multi-task learning
+- [Gas permeability, diffusivity, and solubility in polymers: Simulation-experiment data fusion and multi-task machine learning](https://www.nature.com/articles/s41524-024-01373-9) [2024]
 - [Polymer Informatics at Scale with Multitask Graph Neural Networks](https://doi.org/10.1021/acs.chemmater.2c02991) [2023]
 - [Polymer graph neural networks for multitask property learning](https://doi.org/10.1038/s41524-023-01034-3) [2023]
 - [Accelerated Scheme to Predict Ring-Opening Polymerization Enthalpy: Simulation-Experimental Data Fusion and Multitask Machine Learning](https://doi.org/10.1021/acs.jpca.3c05870) [2023]
@@ -200,6 +205,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### Polyimide
 - [Application of machine learning in polyimide structure design and property regulation](https://journals.sagepub.com/doi/abs/10.1177/09540083251313522) [2025]
 - [Data science-centric design, discovery, and evaluation of novel synthetically accessible polyimides with desired dielectric constants](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc05000b) [2024]
+- [Predicting and screening high-performance polyimide membranes using negative correlation based deep ensemble methods](https://pubs.rsc.org/en/content/articlelanding/2024/ay/d4ay01160k/unauth) [2024]
 
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
@@ -240,6 +246,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## AI4Polymer books or chapters
 - [AI Application Potential and Prospects in Materials Science: A Focus on Polymers](https://www.okipublishing.com/book/index.php/okip/catalog/book/62) [2025]
 - [Polymer Property Prediction Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-78724-9_5) [2025]
+- [Applications of Predictive Modeling for Polymers](https://link.springer.com/chapter/10.1007/978-3-031-78724-9_6) [2025]
 - [Machine Learning for Polymer Informatics](https://pubs.acs.org/doi/10.1021/acsinfocus.7e8007) [2024]
 
 ## 个人微信公众号
