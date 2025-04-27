@@ -231,6 +231,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Physics-Informed Neural Networks in Polymers: A Review](https://www.mdpi.com/2073-4360/17/8/1108) [2025]
 
 ## Polymer characterization
+- [DetectNano: Deep Learning Detection in TEM Images for High-Throughput Polymer Nanostructure Characterization](https://chemrxiv.org/engage/chemrxiv/article-details/67ffa612e561f77ed44880f7) [2025]
 - [Machine learning for analyzing atomic force microscopy (AFM) images generated from polymer blends](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00215f#fn1) [2024] - AFM
 - [Machine learning for analyses and automation of structural characterization of polymer materials]( https://doi.org/10.1016/j.progpolymsci.2024.101828) [2024]
 - [Molecular Characterization of Polymer Networks](https://www.ncbi.nlm.nih.gov/pubmed/33792299) [2021]
