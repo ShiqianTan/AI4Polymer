@@ -217,6 +217,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Machine learning for analyses and automation of structural characterization of polymer materials]( https://doi.org/10.1016/j.progpolymsci.2024.101828) [2024]
 - [Molecular Characterization of Polymer Networks](https://www.ncbi.nlm.nih.gov/pubmed/33792299) [2021]
 
+## MD
+- [Machine learning-assisted exploration of thermally conductive polymers based on high-throughput molecular dynamics simulations](https://doi.org/10.1016/j.mtphys.2022.100850) [2020]
+
 ## AI4Polymer review
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
