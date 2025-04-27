@@ -232,6 +232,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## MD
 - [Machine learning-assisted exploration of thermally conductive polymers based on high-throughput molecular dynamics simulations](https://doi.org/10.1016/j.mtphys.2022.100850) [2020]
 
+## Synthesizability
+- [SAScore]
+
 ## Nature and Science papers
 - [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
 
