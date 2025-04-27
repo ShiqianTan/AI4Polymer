@@ -37,6 +37,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 
 ## Polymer design
+- [Advancing organic photovoltaic materials by machine learning-driven design with polymer-unit fingerprints](https://doi.org/10.1038/s41524-025-01608-3) [2025]
 - [Functional monomer design for synthetically accessible polymers](https://www.ncbi.nlm.nih.gov/pubmed/39958647) [2025]
 - [Benchmarking study of deep generative models for inverse polymer design](http://dx.doi.org/10.1039/D4DD00395K) [2025]
 - [Inverse design of copolymers including stoichiometry and chain architecture](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc05900j) [2025]
