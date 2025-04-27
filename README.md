@@ -162,6 +162,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Polymer graph neural networks for multitask property learning](https://doi.org/10.1038/s41524-023-01034-3) [2023]
 - [Accelerated Scheme to Predict Ring-Opening Polymerization Enthalpy: Simulation-Experimental Data Fusion and Multitask Machine Learning](https://doi.org/10.1021/acs.jpca.3c05870) [2023]
 
+## Transfer learning
+- [Thermal stability prediction of copolymerized polyimides via an interpretable transfer learning model](https://www.oaepublish.com/articles/jmi.2024.13) [2024]
+
 ## Polymer properties prediction
 
 ### Benchmarking
