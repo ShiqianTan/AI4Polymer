@@ -199,6 +199,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials](https://onlinelibrary.wiley.com/doi/10.1002/polb.24117) [2016]
 
 ### Solubility
+- [Polymer Solubility Prediction Using Large Language Models](https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.5c00054) [2025] - LLM, GPT3.5
 - [Data-Driven Prediction of Flory−Huggins Parameter for Quantifying Polymer−Solvent Interaction](https://pubs.acs.org/doi/10.1021/acs.iecr.4c04761) [2025]
 - [Predicting homopolymer and copolymer solubility through machine learning](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00290c) [2025]
 - [Recycling of a Polymer Mixture Through Dissolution-Precipitation and Development of Machine Learning Models to Assess Polymer/Solvent Suitability](https://onlinelibrary.wiley.com/doi/10.1002/pol.20241131?af=R) [2025]
