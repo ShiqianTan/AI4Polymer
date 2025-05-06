@@ -218,6 +218,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Deep learning-based estimation of Flory–Huggins parameter of A–B block copolymers from cross-sectional images of phase-separated structures](https://doi.org/10.1038/s41598-021-91761-8) [2021]
 - [A review of polymer dissolution](https://www.sciencedirect.com/science/article/abs/pii/S0079670003000455?via%3Dihub) [2003] - Review
 - [Characterization of Polymer-Solvent Interactions and Their Temperature Dependence Using Inverse Gas Chromatography](https://doi.org/10.1021/je00016a024) [1994]: Dataset
+- [Solubility parameters](https://pubs.acs.org/doi/abs/10.1021/cr60298a003?ref=PDF) [1975] - Review
 
 ### Polymeric membrane
 - [Machine learning for the advancement of membrane science and technology: A critical review](https://www.sciencedirect.com/science/article/pii/S0376738824008500) [2025]
