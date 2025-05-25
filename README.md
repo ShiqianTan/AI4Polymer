@@ -297,10 +297,12 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Emerging Trends in Machine Learning: A Polymer Perspective](https://pubs.acs.org/doi/10.1021/acspolymersau.2c00053) [2023]
 - [The Rise of Machine Learning in Polymer Discovery](https://doi.org/10.1002/aisy.202200243) [2023]
 - [Machine learning for polymeric materials: an introduction](https://doi.org/10.1002/pi.6345) [2022]
+- [Data-Driven Materials Innovation and Applications](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202104113) [2022]
 - [Polymer informatics: Current status and critical next steps](https://www.sciencedirect.com/science/article/abs/pii/S0927796X2030053X) [2021]
 - [Machine learning in polymer informatics](https://doi.org/10.1002/inf2.12167) [2021]
 - [Polymer Genome: A Data-Powered Polymer Informatics Platform for Property Predictions](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02913) [2018]
 - [Polymer Informatics: Opportunities and Challenges](https://doi.org/10.1021/acsmacrolett.7b00228) [2017]
+- [Perspective: Materials informatics and big data: Realization of the “fourth paradigm” of science in materials science](https://pubs.aip.org/aip/apm/article/4/5/053208/121530/Perspective-Materials-informatics-and-big-data) [2016]
 
 ## AI4Polymer books or chapters
 - [AI Application Potential and Prospects in Materials Science: A Focus on Polymers](https://www.okipublishing.com/book/index.php/okip/catalog/book/62) [2025]
