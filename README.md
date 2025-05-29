@@ -310,6 +310,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Applications of Predictive Modeling for Polymers](https://link.springer.com/chapter/10.1007/978-3-031-78724-9_6) [2025]
 - [Machine Learning for Polymer Informatics](https://pubs.acs.org/doi/10.1021/acsinfocus.7e8007) [2024]
 
+## Blogs or news
+- [DeepChem Polymer Science](https://deepchem.io/tutorials/an-introduction-to-the-polymers-and-their-representation/) - A series of tutorials to polymer informatics
+
 ## 个人微信公众号
 
 ![鲸落生](wechat.jpg)
