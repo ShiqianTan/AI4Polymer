@@ -94,6 +94,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [NIMS polymer database PoLyInfo (II): machine-readable standardization of polymer knowledge expression](https://doi.org/10.1080/27660400.2024.2354651) [2024]
 - [Estimation of the Flory‐Huggins interaction parameter of polymer‐solvent mixtures using machine learning](https://link.springer.com/article/10.1557/s43579-022-00237-x) [2022] - Flory-Huggins interaction parameter of polymer-solvent mixtures
 - [Multitask Machine Learning to Predict Polymer–Solvent Miscibility Using Flory–Huggins Interaction Parameters](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02600) [2023] - Flory-Huggins interaction parameter of polymer-solvent mixtures
+- [Polymer Data Challenges in the AI Era: Bridging Gaps for Next-Generation Energy Materials](https://arxiv.org/abs/2505.13494) - arXiv preprint arXiv:2505.13494 (2025).
 
 ## Polymer representation
 
