@@ -9,6 +9,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 - [Awesome AI for polymer](#ai4polymer-)
   - [Publication statistics](#publication-statistics)
+  - [Agent](#agent)
   - [Large language model](#large-language-model)
   - [Polymer design](#polymer-design)
   - [Polymer dataset](#polymer-dataset)
@@ -28,6 +29,10 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 ![AI4Polymer publication statistics from Web of Science](figs/webofscience.png)
 
 The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*") AND PY=(2010-2025)). The access time of web of science is April 22, 2025.
+
+## Agent
+- [Toward Automated Simulation Research Workflow through LLM Prompt Engineering Design](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01653) - Journal of Chemical Information and Modeling 65, 114-124 (2025). https://doi.org:10.1021/acs.jcim.4c01653
+
 
 ## Large language model
 
