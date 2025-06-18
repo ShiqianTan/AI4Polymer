@@ -31,6 +31,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*") AND PY=(2010-2025)). The access time of web of science is April 22, 2025.
 
 ## Agent
+- [Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs](https://onlinelibrary.wiley.com/doi/10.1002/marc.202500065) - Macromolecular Rapid Communications n/a, 2500065  https://doi.org:https://doi.org/10.1002/marc.202500065
 - [Toward Automated Simulation Research Workflow through LLM Prompt Engineering Design](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01653) - Journal of Chemical Information and Modeling 65, 114-124 (2025). https://doi.org:10.1021/acs.jcim.4c01653
 
 
