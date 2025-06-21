@@ -203,6 +203,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Dielectric properties
 - [Recent Progress and Future Prospects on All-Organic Polymer Dielectrics for Energy Storage Capacitors](https://doi.org/10.1021/acs.chemrev.1c00793) [2022] - Review
+- [Dielectric Polymer Property Prediction Using Recurrent Neural Networks with Optimizations](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01366) - RNN. Journal of Chemical Information and Modeling 61, 2175-2186 (2021).
 - [Prediction of polymer properties using infinite chain descriptors (ICD) and machine learning: Toward optimized dielectric polymeric materials](https://onlinelibrary.wiley.com/doi/10.1002/polb.24117) [2016]
 
 ### Solubility
