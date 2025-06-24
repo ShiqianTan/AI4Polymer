@@ -314,6 +314,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Perspective: Materials informatics and big data: Realization of the “fourth paradigm” of science in materials science](https://pubs.aip.org/aip/apm/article/4/5/053208/121530/Perspective-Materials-informatics-and-big-data) [2016]
 
 ## AI4Polymer books or chapters
+- [Deep Learning for Polymer Discovery](https://link.springer.com/book/10.1007/978-3-031-84732-5) [2026] - Springer
 - [AI Application Potential and Prospects in Materials Science: A Focus on Polymers](https://www.okipublishing.com/book/index.php/okip/catalog/book/62) [2025]
 - [Polymer Property Prediction Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-78724-9_5) [2025]
 - [Applications of Predictive Modeling for Polymers](https://link.springer.com/chapter/10.1007/978-3-031-78724-9_6) [2025]
