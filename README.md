@@ -20,6 +20,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Polymer properties prediction](#polymer-properties-prediction)
   - [High-Throughput Screening](#high-throughput-screening)
   - [Bayesian optimization](#bayesian-optimization)
+  - [Sustainable polymer](#sustainable-polymer)
   - [AI4Polymer review](#ai4polymer-review)
   - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
   - [Wechat](#个人微信公众号)
@@ -291,6 +292,10 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Synthesizability
 - [SAScore]
+
+## Sustainable polymer
+- [Machine Learning for Developing Sustainable Polymers](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202500718?casa_token=rgp_ihEdYwgAAAAA%3A9BvP2gGedpERuE7kGgP5reVG5sjPTE883JgGZlottoAq5lxLWsIOqkBfkxduFSFI4R8vMMdf2JlGt4A) - Chemistry – A European Journal 31, e202500718 (2025). https://doi.org:https://doi.org/10.1002/chem.202500718
+
 
 ## Nature and Science papers
 - [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
