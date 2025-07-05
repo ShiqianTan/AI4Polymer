@@ -336,7 +336,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ## Research group
 ### Domestic group (including HK)
 - [Hanyu Gao](https://hanyugao.com/), [Google scholar](https://scholar.google.com/citations?user=zL4-oVYAAAAJ&hl=en), HKUST, Polymerization Kinetic Modeling
-- 
+- [Yin-Ning Zhou](https://scce.sjtu.edu.cn/teachers/1476.html), (https://scholar.google.com/citations?hl=zh-CN&user=d_hn0v8AAAAJ&view_op=list_works&sortby=pubdate), SJTU, Polymer simulation and modeling
+
 ### Oversea group
 - [Juan J. de Pablo](https://pme.uchicago.edu/group/de-pablo-group), [Google scholar](https://scholar.google.com/citations?hl=en&user=_Q1HH6gAAAAJ&view_op=list_works&sortby=pubdate), NYU, Molecular modeling of polymers
 - [Zhen-Gang Wang](http://zgwlab.che.caltech.edu/), [Google scholar](https://scholar.google.com/citations?hl=en&user=a3ERFZEAAAAJ&view_op=list_works&sortby=pubdate), Caltech, Polymer physics
@@ -344,6 +345,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Michael A. Webb](https://cbe.princeton.edu/michael-webb), [Google scholar](https://scholar.google.com/citations?hl=en&user=1s9E0_8AAAAJ&view_op=list_works&sortby=pubdate), Princeton University, Polymer simulation
 - [Nicholas E. Jackson](https://chemistry.illinois.edu/jacksonn), [Google scholar](https://scholar.google.com/citations?hl=en&user=xFw-Ab0AAAAJ&view_op=list_works&sortby=pubdate), University of Illinois Urbana-Champaign, AI for materials
 - [Rampi Ramprasad](https://ramprasad.mse.gatech.edu/projects/), [Google scholar](https://scholar.google.com/citations?hl=en&user=er8soVgAAAAJ&view_op=list_works&sortby=pubdate), Georgia Institute of Technology, Polymer informatics
+- [Dagmar R. D'hooge](https://www.lct.ugent.be/people/dagmar-r-dhooge), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=qbU_t60AAAAJ&view_op=list_works&sortby=pubdate), Ghent University, Polymer simulation and modeling
 
 
 ## 个人微信公众号
