@@ -184,6 +184,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Understanding Polymers Through Transfer Learning and Explainable AI](https://www.mdpi.com/2076-3417/14/22/10413) [2024]
 
 ## Reinforce learning
+- [De Novo Design of Polymers with Specified Properties Using Reinforcement Learning](https://doi.org/10.1021/acs.macromol.5c00427) - Macromolecules 58, 5477-5486 (2025). https://doi.org:10.1021/acs.macromol.5c00427
 - [Glass Transition Temperature Prediction of Polymers via Graph Reinforcement Learning](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c01906?casa_token=EIhhqO2BNG4AAAAA%3ADWj3_54sEj9F9FE3UKrv67O2y9SPwlpsY8a3zBLVq09W8M1QgJD13yAOeyDw-1qzWCdj1aXq-L7f_wUxew) [2024]
 
 ## Polymer properties prediction
@@ -333,6 +334,17 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [DeepChem Polymer Science](https://deepchem.io/tutorials/an-introduction-to-the-polymers-and-their-representation/) - A series of tutorials to polymer informatics
 
 ## Research group
+### Domestic group (including HK)
+- [Hanyu Gao](https://hanyugao.com/), [Google scholar](https://scholar.google.com/citations?user=zL4-oVYAAAAJ&hl=en), HKUST, Polymerization Kinetic Modeling
+- 
+### Oversea group
+- [Juan J. de Pablo](https://pme.uchicago.edu/group/de-pablo-group), [Google scholar](https://scholar.google.com/citations?hl=en&user=_Q1HH6gAAAAJ&view_op=list_works&sortby=pubdate), NYU, Molecular modeling of polymers
+- [Zhen-Gang Wang](http://zgwlab.che.caltech.edu/), [Google scholar](https://scholar.google.com/citations?hl=en&user=a3ERFZEAAAAJ&view_op=list_works&sortby=pubdate), Caltech, Polymer physics
+- [Rui Wang](https://tyokokur.github.io/rwgrp/), [Google scholar](https://scholar.google.com/citations?hl=en&user=IdNvgY0AAAAJ&view_op=list_works&sortby=pubdate), UCB, Polymer simulation and modeling
+- [Michael A. Webb](https://cbe.princeton.edu/michael-webb), [Google scholar](https://scholar.google.com/citations?hl=en&user=1s9E0_8AAAAJ&view_op=list_works&sortby=pubdate), Princeton University, Polymer simulation
+- [Nicholas E. Jackson](https://chemistry.illinois.edu/jacksonn), [Google scholar](https://scholar.google.com/citations?hl=en&user=xFw-Ab0AAAAJ&view_op=list_works&sortby=pubdate), University of Illinois Urbana-Champaign, AI for materials
+- [Rampi Ramprasad](https://ramprasad.mse.gatech.edu/projects/), [Google scholar](https://scholar.google.com/citations?hl=en&user=er8soVgAAAAJ&view_op=list_works&sortby=pubdate), Georgia Institute of Technology, Polymer informatics
+
 
 ## 个人微信公众号
 
