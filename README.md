@@ -23,6 +23,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Sustainable polymer](#sustainable-polymer)
   - [AI4Polymer review](#ai4polymer-review)
   - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
+  - [Research group](#research-group)
   - [Wechat](#个人微信公众号)
 
 ## Publication statistics
@@ -330,6 +331,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Blogs or news
 - [DeepChem Polymer Science](https://deepchem.io/tutorials/an-introduction-to-the-polymers-and-their-representation/) - A series of tutorials to polymer informatics
+
+## Research group
 
 ## 个人微信公众号
 
