@@ -335,10 +335,11 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Research group
 ### Domestic group (including HK)
+- [Shiping Zhu](https://polygba.cuhk.edu.cn/), [Google scholar](https://scholar.google.com.hk/citations?hl=en&user=BDAOnYsAAAAJ&view_op=list_works&sortby=pubdate), CUHK(SZ), Polymer reaction engineering and theory
 - [Hanyu Gao](https://hanyugao.com/), [Google scholar](https://scholar.google.com/citations?user=zL4-oVYAAAAJ&hl=en), HKUST, Polymerization Kinetic Modeling
 - [Yin-Ning Zhou](https://scce.sjtu.edu.cn/teachers/1476.html), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=d_hn0v8AAAAJ&view_op=list_works&sortby=pubdate), SJTU, Polymer simulation and modeling
 - [Jianfeng Li](https://polymer.fudan.edu.cn/polymeren/da/19/c31605a383513/page.htm), FDU, AI for Polymer Science
-- [Zhao-Yan Sun](http://ps-lab.ciac.cas.cn/rcdw/ylb/201104/t20110401_268181.html), [ResearchGate](https://www.researchgate.net/profile/Zhao-Yan-Sun/research), , AI for polymer
+- [Zhao-Yan Sun](http://ps-lab.ciac.cas.cn/rcdw/ylb/201104/t20110401_268181.html), [ResearchGate](https://www.researchgate.net/profile/Zhao-Yan-Sun/research), The Chinese Academy of Sciences, AI for polymer
 
 ### Oversea group
 - [Juan J. de Pablo](https://pme.uchicago.edu/group/de-pablo-group), [Google scholar](https://scholar.google.com/citations?hl=en&user=_Q1HH6gAAAAJ&view_op=list_works&sortby=pubdate), NYU, Molecular modeling of polymers
@@ -348,6 +349,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Nicholas E. Jackson](https://chemistry.illinois.edu/jacksonn), [Google scholar](https://scholar.google.com/citations?hl=en&user=xFw-Ab0AAAAJ&view_op=list_works&sortby=pubdate), University of Illinois Urbana-Champaign, AI for materials
 - [Rampi Ramprasad](https://ramprasad.mse.gatech.edu/projects/), [Google scholar](https://scholar.google.com/citations?hl=en&user=er8soVgAAAAJ&view_op=list_works&sortby=pubdate), Georgia Institute of Technology, Polymer informatics
 - [Dagmar R. D'hooge](https://www.lct.ugent.be/people/dagmar-r-dhooge), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=qbU_t60AAAAJ&view_op=list_works&sortby=pubdate), Ghent University, Polymer simulation and modeling
+- [Tengfei Luo](https://monsterlab.nd.edu/), [Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=VIiy6ugAAAAJ&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&sortby=pubdate), University of Notre Dame, AI for polymer 
 
 
 ## 个人微信公众号
