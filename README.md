@@ -266,6 +266,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Accelerated Discovery of High-Refractive-Index Polyimides via First-Principles Molecular Modeling, Virtual High-Throughput Screening, and Data Mining](https://doi.org/10.1021/acs.jpcc.9b01147) [2019]
 - [Random forest and multilayer perceptron for predicting the dielectric loss of polyimide nanocomposite films](http://dx.doi.org/10.1039/C7RA04147K) [2017]
 
+### Copolymer
+- [Radical Reactivity Ratio Predictions for Copolymers with an Interpretable Machine Learning Model](https://chemrxiv.org/engage/chemrxiv/article-details/6859a1d03ba0887c332f55a8) - ChemArxiv, 2025
+
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
 
