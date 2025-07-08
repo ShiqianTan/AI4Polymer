@@ -28,9 +28,9 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 ## Publication statistics
 
-![AI4Polymer publication statistics from Web of Science](figs/webofscience.png)
+![AI4Polymer publication statistics from Web of Science](figs/record_count_by_year_20250708.png)
 
-The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*") AND PY=(2010-2025)). The access time of web of science is April 22, 2025.
+The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*") AND PY=(2010-2025)). The access time of web of science is July 8, 2025.
 
 ## Agent
 - [Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs](https://onlinelibrary.wiley.com/doi/10.1002/marc.202500065) - Macromolecular Rapid Communications n/a, 2500065  https://doi.org:https://doi.org/10.1002/marc.202500065
