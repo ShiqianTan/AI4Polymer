@@ -25,7 +25,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
     - [Polyimide](#Polyimide)
     - [Copolymer](#Copolymer)
     - [Polymer electrolyte](#polymer-properties-prediction)
-    - [Others](#Others)
+    - [Other properties](#Other-properties)
   - [High-Throughput Screening](#high-throughput-screening)
   - [Bayesian optimization](#bayesian-optimization)
   - [Sustainable polymer](#sustainable-polymer)
@@ -162,7 +162,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### Review or benchmarking
 - [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://doi.org/10.1021/acs.jcim.9b00358)
 
-### Others
+### Other representations
 - [Ring Repeating Unit: An Upgraded Structure Representation of Linear Condensation Polymers for Property Prediction](https://doi.org/10.1021/acs.jcim.2c01389) [2023]
 - [Enhancing deep learning predictive models with HAPPY (Hierarchically Abstracted rePeat unit of PolYmers) representation](https://doi.org/10.1038/s41524-024-01293-8) [2024]
 
@@ -282,7 +282,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 ### Polymer electrolyte
 - [Machine-Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00797) -Nano Letters 25, 7801-7809 (2025). https://doi.org:10.1021/acs.nanolett.5c00797
 
-### Others
+### Other properties
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
 
 ## High-Throughput Screening
