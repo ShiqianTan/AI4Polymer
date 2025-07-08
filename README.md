@@ -18,6 +18,14 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Multi-task learning](#multi-task-learning)
   - [Unsupervised learning](#unsupervised-learning)
   - [Polymer properties prediction](#polymer-properties-prediction)
+    - [Tg](#Tg)
+    - [Dielectric properties](#Dielectric-properties)
+    - [Solubility](#Solubility)
+    - [Polymeric membrane](#Polymeric-membrane)
+    - [Polyimide](#Polyimide)
+    - [Copolymer](#Copolymer)
+    - [Polymer electrolyte](#polymer-properties-prediction)
+    - [Others](#Others)
   - [High-Throughput Screening](#high-throughput-screening)
   - [Bayesian optimization](#bayesian-optimization)
   - [Sustainable polymer](#sustainable-polymer)
@@ -270,6 +278,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Copolymer
 - [Radical Reactivity Ratio Predictions for Copolymers with an Interpretable Machine Learning Model](https://chemrxiv.org/engage/chemrxiv/article-details/6859a1d03ba0887c332f55a8) - ChemArxiv, 2025
+
+### Polymer electrolyte
+- [Machine-Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00797) -Nano Letters 25, 7801-7809 (2025). https://doi.org:10.1021/acs.nanolett.5c00797
 
 ### Others
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
