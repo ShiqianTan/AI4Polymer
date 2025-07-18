@@ -360,7 +360,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Nicholas E. Jackson](https://chemistry.illinois.edu/jacksonn), [Google scholar](https://scholar.google.com/citations?hl=en&user=xFw-Ab0AAAAJ&view_op=list_works&sortby=pubdate), University of Illinois Urbana-Champaign, AI for materials
 - [Rampi Ramprasad](https://ramprasad.mse.gatech.edu/projects/), [Google scholar](https://scholar.google.com/citations?hl=en&user=er8soVgAAAAJ&view_op=list_works&sortby=pubdate), Georgia Institute of Technology, Polymer informatics
 - [Dagmar R. D'hooge](https://www.lct.ugent.be/people/dagmar-r-dhooge), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=qbU_t60AAAAJ&view_op=list_works&sortby=pubdate), Ghent University, Polymer simulation and modeling
-- [Tengfei Luo](https://monsterlab.nd.edu/), [Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=VIiy6ugAAAAJ&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&sortby=pubdate), University of Notre Dame, AI for polymer 
+- [Tengfei Luo](https://monsterlab.nd.edu/), [Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=VIiy6ugAAAAJ&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&sortby=pubdate), University of Notre Dame, AI for polymer
+- [Ying Li](https://pdelab.engr.wisc.edu/), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=FgYIdZwAAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&gmla=AH8HC4xK59o3Dw8NRBOfVAGCoGrkX01DUzIb3ZA9mfqCVlvoOWFtAGjveSXki9l832fULiC01FRxyUPRbsdx-qJPQJw), University of Wisconsin-Madison, Polymer digital engineering
 
 
 ## 个人微信公众号
