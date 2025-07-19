@@ -17,7 +17,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Generative model](#generative-model)
   - [Multi-task learning](#multi-task-learning)
   - [Unsupervised learning](#unsupervised-learning)
-  - [Reinforcement learning](##reinforcement-learning)
+  - [Reinforcement learning](#reinforcement-learning)
   - [Polymer properties prediction](#polymer-properties-prediction)
     - [Tg](#Tg)
     - [Dielectric properties](#Dielectric-properties)
