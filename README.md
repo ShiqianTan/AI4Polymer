@@ -193,6 +193,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Understanding Polymers Through Transfer Learning and Explainable AI](https://www.mdpi.com/2076-3417/14/22/10413) [2024]
 
 ## Reinforce learning
+- [Generating High-Temperature Polymer Dielectrics with a Graph Convolution and Reinforcement Learning Framework](https://doi.org:10.1021/acs.jpcc.5c02310) [2025] - Journal of Physical Chemistry C 129, 10020-10026 (2025). https://doi.org:10.1021/acs.jpcc.5c02310
 - [De Novo Design of Polymers with Specified Properties Using Reinforcement Learning](https://doi.org/10.1021/acs.macromol.5c00427) - Macromolecules 58, 5477-5486 (2025). https://doi.org:10.1021/acs.macromol.5c00427
 - [Glass Transition Temperature Prediction of Polymers via Graph Reinforcement Learning](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c01906?casa_token=EIhhqO2BNG4AAAAA%3ADWj3_54sEj9F9FE3UKrv67O2y9SPwlpsY8a3zBLVq09W8M1QgJD13yAOeyDw-1qzWCdj1aXq-L7f_wUxew) [2024]
 
