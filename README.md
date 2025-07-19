@@ -55,6 +55,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 
 ## Polymer design
+- [Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties](https://doi.org/10.1021/jacsau.5c00377) [2025] - JACS Au 5, 2810-2824 (2025). https://doi.org:10.1021/jacsau.5c00377
 - [Advancing organic photovoltaic materials by machine learning-driven design with polymer-unit fingerprints](https://doi.org/10.1038/s41524-025-01608-3) [2025]
 - [Functional monomer design for synthetically accessible polymers](https://www.ncbi.nlm.nih.gov/pubmed/39958647) [2025]
 - [Benchmarking study of deep generative models for inverse polymer design](http://dx.doi.org/10.1039/D4DD00395K) [2025]
