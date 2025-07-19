@@ -42,6 +42,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*") AND PY=(2010-2025)). The access time of web of science is July 8, 2025.
 
 ## Agent
+- [Introducing PolySea: An LLM-Based Polymer Smart Evolution Agent](https://chemrxiv.org/engage/chemrxiv/article-details/67f8d2d481d2151a02f55516) [2025] - ChemArxiv
 - [Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs](https://onlinelibrary.wiley.com/doi/10.1002/marc.202500065) - Macromolecular Rapid Communications n/a, 2500065  https://doi.org:https://doi.org/10.1002/marc.202500065
 - [Toward Automated Simulation Research Workflow through LLM Prompt Engineering Design](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01653) - Journal of Chemical Information and Modeling 65, 114-124 (2025). https://doi.org:10.1021/acs.jcim.4c01653
 
@@ -321,6 +322,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
 
 ## AI4Polymer review
+- [Machine-Learning-Assisted Molecular Design of Innovative Polymers](https://pubs.acs.org/doi/full/10.1021/accountsmr.5c00151) [2025] - Accounts of Materials Research (2025). https://doi.org:10.1021/accountsmr.5c00151
 - [Machine learning in constructing structure–property relationships of polymers](https://pubs.aip.org/aip/cpr/article-abstract/6/2/021305/3345579/Machine-learning-in-constructing-structure?redirectedFrom=fulltext) [2025] - 
 - [Recent Advances in Machine Learning-Assisted Design and Development of Polymer Materials](https://onlinelibrary.wiley.com/doi/abs/10.1002/marc.202500361) [2025] - Macromolecular Rapid Communications n/a, e00361  https://doi.org:https://doi.org/10.1002/marc.202500361
 - [Basic concepts and tools of artificial intelligence in polymer science](https://pubs.rsc.org/en/content/articlelanding/2025/py/d5py00148j) [2025] - Polymer Chemistry 16, 2457-2470 (2025). https://doi.org:10.1039/D5PY00148J
