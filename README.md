@@ -122,6 +122,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Sizing up feature descriptors for macromolecular machine learning with polymeric biomaterials](https://doi.org/10.1038/s41524-023-01040-5) [2023]
 
 ### PSMILES
+- [Exploring SMILES and BigSMILES: Toward Efficient and Scalable Polymer Representations for Machine Learning](https://doi.org/10.1021/acs.macromol.5c00604) [2025] - Macromolecules (2025). https://doi.org:10.1021/acs.macromol.5c00604
 - [Enhancing Copolymer Property Prediction through the Weighted-Chained-SMILES Machine Learning Framework](https://doi.org/10.1021/acsapm.3c02715) - The authors use weighted-chained-SMILES to represent copolymers.
 - Polymer genome ([Machine-learning predictions of polymer properties with Polymer Genome](https://doi.org/10.1063/5.0023759)) [2020] - Heirarchical fingerprints.
 
@@ -318,6 +319,8 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
 
 ## AI4Polymer review
+- [Machine learning in constructing structure–property relationships of polymers](https://pubs.aip.org/aip/cpr/article-abstract/6/2/021305/3345579/Machine-learning-in-constructing-structure?redirectedFrom=fulltext) [2025] - 
+- [Recent Advances in Machine Learning-Assisted Design and Development of Polymer Materials](https://onlinelibrary.wiley.com/doi/abs/10.1002/marc.202500361) [2025] - Macromolecular Rapid Communications n/a, e00361  https://doi.org:https://doi.org/10.1002/marc.202500361
 - [Basic concepts and tools of artificial intelligence in polymer science](https://pubs.rsc.org/en/content/articlelanding/2025/py/d5py00148j) [2025] - Polymer Chemistry 16, 2457-2470 (2025). https://doi.org:10.1039/D5PY00148J
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
