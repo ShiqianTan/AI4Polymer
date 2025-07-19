@@ -281,6 +281,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ### Polymer electrolyte
 - [Machine-Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00797) -Nano Letters 25, 7801-7809 (2025). https://doi.org:10.1021/acs.nanolett.5c00797
+- [PVDF-based solid polymer electrolytes for lithium-ion batteries: strategies in composites, blends, dielectric engineering, and machine learning approaches](http://dx.doi.org/10.1039/D5RA02951A) [2025] - RSC Advances 15, 20629-20656 (2025). https://doi.org:10.1039/D5RA02951A
 
 ### Other properties
 - [Refractive index prediction models for polymers using machine learning](https://pubs.aip.org/aip/jap/article/127/21/215105/566123/Refractive-index-prediction-models-for-polymers) [2020] - Refractive index
@@ -317,6 +318,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
 
 ## AI4Polymer review
+- [Basic concepts and tools of artificial intelligence in polymer science](https://pubs.rsc.org/en/content/articlelanding/2025/py/d5py00148j) [2025] - Polymer Chemistry 16, 2457-2470 (2025). https://doi.org:10.1039/D5PY00148J
 - [Machine Learning in Polymer Research](https://doi.org/10.1002/adma.202413695) [2025]
 - [Machine Learning Approaches in Polymer Science: Progress and Fundamental for a New Paradigm](https://onlinelibrary.wiley.com/doi/10.1002/smm2.1320) [2025]
 - [Ten Problems in Polymer Reactivity Prediction](https://doi.org/10.1021/acs.macromol.4c02582) [2025]
