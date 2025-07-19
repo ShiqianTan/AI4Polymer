@@ -372,6 +372,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Dagmar R. D'hooge](https://www.lct.ugent.be/people/dagmar-r-dhooge), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=qbU_t60AAAAJ&view_op=list_works&sortby=pubdate), Ghent University, Polymer simulation and modeling
 - [Tengfei Luo](https://monsterlab.nd.edu/), [Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=VIiy6ugAAAAJ&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&sortby=pubdate), University of Notre Dame, AI for polymer
 - [Ying Li](https://pdelab.engr.wisc.edu/), [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=FgYIdZwAAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&gmla=AH8HC4xK59o3Dw8NRBOfVAGCoGrkX01DUzIb3ZA9mfqCVlvoOWFtAGjveSXki9l832fULiC01FRxyUPRbsdx-qJPQJw), University of Wisconsin-Madison, Polymer digital engineering
+- [Jana M. Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber), [Google scholar](https://scholar.google.nl/citations?hl=en&user=bSZLDNMAAAAJ&view_op=list_works&sortby=pubdate), Delft University of Technology, AI for bioscience.
 
 
 ## 个人微信公众号
