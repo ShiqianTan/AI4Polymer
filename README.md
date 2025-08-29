@@ -285,6 +285,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Radical Reactivity Ratio Predictions for Copolymers with an Interpretable Machine Learning Model](https://chemrxiv.org/engage/chemrxiv/article-details/6859a1d03ba0887c332f55a8) - ChemArxiv, 2025
 
 ### Polymer electrolyte
+- [Deep learning prediction of ionic conductivity in polymer electrolytes using hierarchical polymer graphs](https://linkinghub.elsevier.com/retrieve/pii/S1385894725076673) - Chemical Engineering Journal 521 (2025). https://doi.org:10.1016/j.cej.2025.166829
 - [Machine-Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00797) -Nano Letters 25, 7801-7809 (2025). https://doi.org:10.1021/acs.nanolett.5c00797
 - [PVDF-based solid polymer electrolytes for lithium-ion batteries: strategies in composites, blends, dielectric engineering, and machine learning approaches](http://dx.doi.org/10.1039/D5RA02951A) [2025] - RSC Advances 15, 20629-20656 (2025). https://doi.org:10.1039/D5RA02951A
 
