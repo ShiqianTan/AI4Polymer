@@ -370,6 +370,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Jianfeng Li](https://polymer.fudan.edu.cn/polymeren/da/19/c31605a383513/page.htm), FDU, AI for Polymer Science
 - [Zhao-Yan Sun](http://ps-lab.ciac.cas.cn/rcdw/ylb/201104/t20110401_268181.html), [ResearchGate](https://www.researchgate.net/profile/Zhao-Yan-Sun/research), The Chinese Academy of Sciences, AI for polymer
 - [Weihua Li](https://qiugroup.fudan.edu.cn/Prof.WeihuaLi.html), [Publications](https://qiugroup.fudan.edu.cn/Publication.html), Fudan University, Block and conjugated polymer design
+- [Dapeng Wang](https://www.x-mol.com/groups/wangdapeng), [Google scholar](https://scholar.google.com/citations?hl=en&user=GEBslzkAAAAJ&view_op=list_works&sortby=pubdate), Changchun Institute of Applied Chemistry, Chinese Academy of Sciences,  AI-based polymer informatics
 
 ### Oversea group
 - [Juan J. de Pablo](https://pme.uchicago.edu/group/de-pablo-group), [Google scholar](https://scholar.google.com/citations?hl=en&user=_Q1HH6gAAAAJ&view_op=list_works&sortby=pubdate), NYU, Molecular modeling of polymers
