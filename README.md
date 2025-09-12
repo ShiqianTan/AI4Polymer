@@ -326,6 +326,7 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 - [Deep learning](https://www.nature.com/articles/nature14539) [2015]: Nature
 
 ## AI4Polymer review
+- [Machine learning in polymer science: A new lens for physical and chemical exploration](https://doi.org/10.1016/j.pmatsci.2025.101544) [2026] - Progress in Materials Science 156, 101544 (2026).
 - [Machine-Learning-Assisted Molecular Design of Innovative Polymers](https://pubs.acs.org/doi/full/10.1021/accountsmr.5c00151) [2025] - Accounts of Materials Research (2025). https://doi.org:10.1021/accountsmr.5c00151
 - [Machine learning in constructing structure–property relationships of polymers](https://pubs.aip.org/aip/cpr/article-abstract/6/2/021305/3345579/Machine-learning-in-constructing-structure?redirectedFrom=fulltext) [2025] - 
 - [Recent Advances in Machine Learning-Assisted Design and Development of Polymer Materials](https://onlinelibrary.wiley.com/doi/abs/10.1002/marc.202500361) [2025] - Macromolecular Rapid Communications n/a, e00361  https://doi.org:https://doi.org/10.1002/marc.202500361
