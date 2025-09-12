@@ -32,6 +32,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
   - [Sustainable polymer](#sustainable-polymer)
   - [AI4Polymer review](#ai4polymer-review)
   - [AI4Polymer books or chapter](#ai4polymer-books-or-chapter)
+  - [AI4Polymer competition](#ai4polymer-competition)
   - [Research group](#research-group)
   - [Wechat](#个人微信公众号)
 
@@ -357,6 +358,9 @@ The retrieve key word is (TI=(polymer* OR macromolecul* OR "polymeric material*"
 
 ## Blogs or news
 - [DeepChem Polymer Science](https://deepchem.io/tutorials/an-introduction-to-the-polymers-and-their-representation/) - A series of tutorials to polymer informatics
+
+## AI4Polymer competition
+- [Kaggle competition: NeurIPS - Open Polymer Prediction 2025](https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/discussion/585022)
 
 ## Research group
 ### Domestic group (including HK)
