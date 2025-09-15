@@ -1026,6 +1026,13 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 
     Focus: AI for biomaterials and 3D printing.
 
+*   **Ying Li Group** (University of Wisconsin-Madison, USA)
+
+    [Group Website](https://pdelab.engr.wisc.edu/) | [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=FgYIdZwAAAAJ&view_op=list_works&sortby=pubdate)
+
+    Focus: Integrate machine learning & data science with multiscale/multiphysics modeling to computationally design advanced polymeric materials (for advanced manufacturing, extreme environments, sustainable energy); accelerate materials discovery via AI-driven tools.
+
+
 #### Domestic Groups (China)
 
 
