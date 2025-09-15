@@ -1020,6 +1020,12 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 
     Focus: AI for bioscience, machine learning for biopolymer design, and polymer sequence-function relationships. Applies large language models to peptide and protein-polymer hybrid design.
 
+*   **Grace X. Gu** (UCB, USA)
+
+    [Group Website](https://gu.berkeley.edu/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=IE4UTWAAAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&gmla=AH8HC4weHiNSLIXTn5PR66x3SmSym5WJQoJS5HD_EL3EZLCyF9WYCeR_rOY1jASe0aG7mN1Qi-rfpv5kjNR6zyw0QE2hGMTm-Jkk7g)
+
+    Focus: AI for biomaterials and 3D printing.
+
 #### Domestic Groups (China)
 
 
