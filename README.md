@@ -836,7 +836,7 @@ Access time of Web of Science: July 8, 2025.
 
 #### Recent Reviews
 
-
+*   [Artificial Intelligence and Multiscale Modeling for Sustainable Biopolymers and Bioinspired Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416901) \[2025] - Advanced Matarials
 
 *   [Machine learning in polymer science: A new lens for physical and chemical exploration](https://doi.org/10.1016/j.pmatsci.2025.101544) \[2026] - Progress in Materials Science 156, 101544 (2026)
 
