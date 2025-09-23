@@ -189,6 +189,7 @@ Access time of Web of Science: July 8, 2025.
 #### Inverse Design
 
 
+*   [De Novo Design of Polyimides Leveraging Deep Reinforcement Learning Agent](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202511099) \[2025] - Advanced Materials
 
 *   [Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties](https://doi.org/10.1021/jacsau.5c00377) \[2025] - JACS Au 5, 2810-2824 (2025)
 
