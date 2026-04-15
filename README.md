@@ -1068,6 +1068,11 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 
     Focus: AI for polymer
 
+*   **Ying Wang Group** (Fudan University, 高分子系)
+
+    [Group Website]([http://ps-lab.ciac.cas.cn/rcdw/ylb/201104/t20110401_268181.html](https://www.yingwanggroup.com/) | [Google Scholar]([https://www.researchgate.net/profile/Zhao-Yan-Sun/research](https://scholar.google.com/citations?hl=en&user=B_f1iQEAAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&gmla=AEk_c1v2ggpRCT2fV_QkYtrrf_XxzT0MW_gGBzNpbRZ9s7ofJFIodGj5Vxsi_prXugumo5BQozlg0bC-xzt42cf_GpwaU6E6t4L6Yg)
+
+    Focus: AI for (polymer) electrolyte, energy materials
 ### WeChat Official Account
 
 ![鲸落生](wechat.jpg)
