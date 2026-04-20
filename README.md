@@ -966,6 +966,11 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 #### International Groups
 
 
+*   **Tanja Junkers Group** (Monash University, Australia)
+
+    [Group Website](https://www.polymatter.net/home) | [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=uzeGch0AAAAJ&view_op=list_works&sortby=pubdate)
+
+    Focus: AI for Polymer with Flow Chemistry.
 
 *   **Juan J. de Pablo Group** (New York University, USA)
 
