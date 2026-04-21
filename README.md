@@ -176,7 +176,7 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 
 
-![AI4Polymer publication statistics from Web of Science](figs/AI4Polymer-WoS-20260421.png)
+![AI4Polymer publication statistics from Web of Science](figs/AI4Polymer-WoS-20260421.jpg)
 
 The retrieval keyword is: (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*" OR "reinforcement learning" OR "large language model" OR "AI Agent") AND PY=(2010-2027)).
 
