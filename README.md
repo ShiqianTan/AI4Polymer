@@ -1041,7 +1041,11 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 
 #### Domestic Groups (China)
 
+*   **Jiaping Lin** (East China University of Science and Technology, Shanghai)
 
+    [Group Website](https://jlinlab.ecust.edu.cn/_t494/main.htm) | [Publication](https://jlinlab.ecust.edu.cn/_t494/Publication/list.htm)
+
+    Focus: AI for Polymers, especially polyimide, polymeric composites, combining experiments and AI.
 
 *   **Shiping Zhu Group** (The Chinese University of Hong Kong, Shenzhen)
 
