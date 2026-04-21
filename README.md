@@ -176,11 +176,11 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
 
 
-![AI4Polymer publication statistics from Web of Science](figs/record_count_by_year_20250708.png)
+![AI4Polymer publication statistics from Web of Science](figs/AI4Polymer-WoS-20260421.png)
 
-The retrieval keyword is: (TI=(polymer\* OR macromolecul\* OR "polymeric material\*" OR "high polymer" OR copolymer\* OR biopolymer\* OR elastomer\*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network\*") AND PY=(2010-2025)).
+The retrieval keyword is: (TI=(polymer* OR macromolecul* OR "polymeric material*" OR "high polymer" OR copolymer* OR biopolymer* OR elastomer*) AND PY=(2010-2025)) AND (AB=("machine learning" OR "deep learning" OR "neural network*" OR "reinforcement learning" OR "large language model" OR "AI Agent") AND PY=(2010-2027)).
 
-Access time of Web of Science: July 8, 2025.
+Access time of Web of Science: April 21, 2026.
 
 ## 🎯 Core Domains
 
