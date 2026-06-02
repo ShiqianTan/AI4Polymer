@@ -1107,6 +1107,11 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 
     Focus: AI for polymer
 
+*   **Li, Yun Qi** (Guizhou University)
+
+    Focus: AI for polymer
+
+
     
 ### WeChat Official Account
 
