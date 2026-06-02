@@ -1102,7 +1102,11 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 *   **Wang, Dapeng** (Changchun Inst Appl Chem, 吉林长春应化所)
 
     Focus: AI for polymer
-    
+
+*   **Zhang, Liangshun** (East China University of Science & Technology)
+
+    Focus: AI for polymer
+
     
 ### WeChat Official Account
 
