@@ -1082,6 +1082,27 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
     [Group Website](https://www.yingwanggroup.com/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=B_f1iQEAAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=223010165%40link.cuhk.edu.cn&gmla=AEk_c1v2ggpRCT2fV_QkYtrrf_XxzT0MW_gGBzNpbRZ9s7ofJFIodGj5Vxsi_prXugumo5BQozlg0bC-xzt42cf_GpwaU6E6t4L6Yg)
 
     Focus: AI for (polymer) electrolyte, energy materials
+
+*   **Fangyou Yan** (Tianjin University of Science and Technology, School of Chemical Engineering and Materials Science)
+
+    Focus: AI for polymer
+
+*   **Shenghong Ju** (Shanghai Jiao Tong University, Department of Polymer Science and Engineering)
+
+    Focus: AI for polymer
+
+*   **Nie, Yijing** (江苏)
+
+    Focus: AI for polymer
+
+*   **Lei Du** (华东理工大学)
+
+    Focus: AI for polymer
+
+*   **Wang, Dapeng** (Changchun Inst Appl Chem, 吉林长春应化所)
+
+    Focus: AI for polymer
+    
     
 ### WeChat Official Account
 
