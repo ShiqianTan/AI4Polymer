@@ -1111,6 +1111,11 @@ Research groups dedicated to AI-driven polymer science serve as hubs for innovat
 
     Focus: AI for polymer
 
+*   **Weigang Ma** (Tsinghua University, Department of Engineering Mechanics)
+
+    Focus: AI for polymer
+
+
 
     
 ### WeChat Official Account
