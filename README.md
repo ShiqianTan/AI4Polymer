@@ -114,6 +114,11 @@ Inspired by [awesome-python](https://awesome-python.com) and [awesome-python-che
 
         *   [Agent-Based Approaches](#agent-based-approaches)
 
+
+            *   [Polymer-focused agentic workflows](#polymer-focused-agentic-workflows)
+
+            *   [Adjacent agentic chemistry and simulation workflows](#adjacent-agentic-chemistry-and-simulation-workflows)
+
         *   [Physics-Informed Learning](#physics-informed-learning)
 
     *   [Data and Tools](#data-and-tools)
@@ -693,7 +698,31 @@ Access time of Web of Science: April 21, 2026.
 
 
 
-*   [Introducing PolySea: An LLM-Based Polymer Smart Evolution Agent](https://chemrxiv.org/engage/chemrxiv/article-details/67f8d2d481d2151a02f55516) \[2025] - ChemArxiv
+##### Polymer-focused agentic workflows
+
+
+
+*   [Orchestrating explainable AI, ChatGPT, and human expertise: a framework for extracting polymer design guidelines](https://pubs.rsc.org/en/content/articlelanding/2026/ta/d5ta06120b) \[2026] - Human-expert-validated polymer design guidelines, Journal of Materials Chemistry A
+
+*   [Polymer-Agent: Large Language Model Agent for Polymer Design](https://pubs.acs.org/doi/10.1021/acs.jcim.6c00343) \[2026] - LLM agent for polymer structure generation and property-guided design, Journal of Chemical Information and Modeling
+
+*   [ToPolyAgent: AI agents for coarse-grained bead-spring topological polymer simulations](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00471c) \[2026] - Multi-agent coarse-grained polymer simulation workflow, Digital Discovery
+
+*   [OPERA: Operator Learning-Driven Inverse Design for Functional Polymer Metamaterials](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202601289) \[2026] - Physics-aware inverse design for functional polymer metamaterials, Advanced Functional Materials
+
+*   [Multi-agentic AI framework for end-to-end atomistic simulations of polymeric systems](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d6dd00327a) \[2026] - Multi-agent atomistic simulation workflow for polymeric systems, Digital Discovery
+
+*   [PolySea: An LLM-Based Polymer Smart Evolution Agent](https://chemrxiv.org/doi/10.26434/chemrxiv-2025-zw65g) \[2025] - LLM-based polymer evolution and candidate screening, ChemRxiv
+
+*   [Harnessing large language models for data-scarce learning of polymer properties](https://www.nature.com/articles/s43588-025-00768-y) \[2025] - LLM-enabled learning under sparse polymer-property data, Nature Computational Science
+
+*   [LLM Agent-enabled closed-loop design for high-performance dielectric polymers](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202508921) \[2025] - Closed-loop agentic design for dielectric polymers, Advanced Science
+
+*   [RAG-LLM Agent for interpretable polymer structure-performance relationship reasoning](https://pubs.acs.org/doi/full/10.1021/acs.macromol.5c00876) \[2025] - Retrieval-augmented structure-performance reasoning, Macromolecules
+
+*   [AutoPolymer: Autonomous LLM Agent for Polymer Synthesis Route Planning and Experimental Iteration](https://www.sciencedirect.com/science/article/pii/S1385894724018978) \[2024] - Synthesis-route planning and experimental iteration, Chemical Engineering Journal
+
+##### Adjacent agentic chemistry and simulation workflows
 
 *   [Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs](https://onlinelibrary.wiley.com/doi/10.1002/marc.202500065) \[2025]
 
